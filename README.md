@@ -43,7 +43,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISUSAMA&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=JISUSAMA&show_icons=true">
 
-
 ## 📕 Latest Blog Posts
 <p>
     <a href="https://j2su0218.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
