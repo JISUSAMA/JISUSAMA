@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/553>[ETC]티스토리(Tistory)에 Codepen 코드 올리는 방법</a></br><a href=https://j2su0218.tistory.com/552>깃허브(Github)에 티스토리 최근 글 목록 자동으로 업데이트 해주기</a></br><a href=https://j2su0218.tistory.com/551>[WEB] Visual Code/ Brackets 설치/실시간 미리보기 활성화 하기</a></br><a href=https://j2su0218.tistory.com/550>C# 델리게이트가 생성되는 방식(Action,Func,Delegate,Lambda)</a></br><a href=https://j2su0218.tistory.com/549>[ETC] 비주얼 스튜디오(~2022) 확장 프로그램</a></br>
+<a href=https://j2su0218.tistory.com/554>[HTML]문단(<br>,<p>,<pre>) 태그 사용하기</a></br><a href=https://j2su0218.tistory.com/553>[ETC]티스토리(Tistory)에 Codepen 코드 올리는 방법</a></br><a href=https://j2su0218.tistory.com/552>깃허브(Github)에 티스토리 최근 글 목록 자동으로 업데이트 해주기</a></br><a href=https://j2su0218.tistory.com/551>[WEB] Visual Code/ Brackets 설치/실시간 미리보기 활성화 하기</a></br><a href=https://j2su0218.tistory.com/550>C# 델리게이트가 생성되는 방식(Action,Func,Delegate,Lambda)</a></br>
