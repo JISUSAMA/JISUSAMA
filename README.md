@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/558>[HTML]파일 안 이미지 불러오기/ CSS 파일 적용하기</a></br><a href=https://j2su0218.tistory.com/557>포스트프로세싱(Post Processing)으로 시각적 효과 주기</a></br><a href=https://j2su0218.tistory.com/556>유니티(Unity3D) 작업 단축키 팁 TIP</a></br><a href=https://j2su0218.tistory.com/555>[HTML]좌표값을 받아서 레이아웃 이동하기 : Postion/z-index</a></br><a href=https://j2su0218.tistory.com/554>[HTML]문단(br,p,pre) 태그 사용하기</a></br>
+<a href=https://j2su0218.tistory.com/559>[Unity3D]캐릭터(Character) 이동(Move)과 회전(Rotation) 만들기</a></br><a href=https://j2su0218.tistory.com/558>[HTML]파일 안 이미지 불러오기/ CSS 파일 적용하기</a></br><a href=https://j2su0218.tistory.com/557>포스트프로세싱(Post Processing)으로 시각적 효과 주기</a></br><a href=https://j2su0218.tistory.com/556>유니티(Unity3D) 작업 단축키 팁 TIP</a></br><a href=https://j2su0218.tistory.com/555>[HTML]좌표값을 받아서 레이아웃 이동하기 : Postion/z-index</a></br>
