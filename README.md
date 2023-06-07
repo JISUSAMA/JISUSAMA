@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/563>[UNITY]모델링 머티리얼 적용시, Alpha texture 적용하기</a></br><a href=https://j2su0218.tistory.com/561>[UNITY]Input System Refactor(리펙터링) - 구조 재조정</a></br><a href=https://j2su0218.tistory.com/560>[UNITY]시네머신(Cinemachine)사용해서 카메라가 캐릭터 따라 다니게 만들기</a></br><a href=https://j2su0218.tistory.com/559>[UNITY]캐릭터(Character) 이동(Move)과 회전(Rotation) 만들기</a></br><a href=https://j2su0218.tistory.com/558>[HTML]파일 안 이미지 불러오기/ CSS 파일 적용하기</a></br>
+<a href=https://j2su0218.tistory.com/564>[ETC]VisualStudio 스크립트 내 변수명 한번에 변경하기</a></br><a href=https://j2su0218.tistory.com/563>[UNITY]모델링 머티리얼 적용시, Alpha texture 적용하기</a></br><a href=https://j2su0218.tistory.com/561>[UNITY]Input System Refactor(리펙터링) - 구조 재조정</a></br><a href=https://j2su0218.tistory.com/560>[UNITY]시네머신(Cinemachine)사용해서 카메라가 캐릭터 따라 다니게 만들기</a></br><a href=https://j2su0218.tistory.com/559>[UNITY]캐릭터(Character) 이동(Move)과 회전(Rotation) 만들기</a></br>
