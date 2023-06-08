@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/564>[ETC]VisualStudio 스크립트 내 변수명 한번에 변경하기</a></br><a href=https://j2su0218.tistory.com/563>[UNITY]모델링 머티리얼 적용시, Alpha texture 적용하기</a></br><a href=https://j2su0218.tistory.com/562>[UNITY]레이캐스트(Raycast)를 사용해서 충돌 처리하기</a></br><a href=https://j2su0218.tistory.com/561>[UNITY]Input System Refactor(리펙터링) - 구조 재조정</a></br><a href=https://j2su0218.tistory.com/560>[UNITY]시네머신(Cinemachine)사용해서 카메라가 캐릭터 따라 다니게 만들기</a></br>
+<a href=https://j2su0218.tistory.com/565>[UNITY]TryGetComponet()와 GetComponet의 차이와 사용하는 방법</a></br><a href=https://j2su0218.tistory.com/564>[ETC]VisualStudio 스크립트 내 변수명 한번에 변경하기</a></br><a href=https://j2su0218.tistory.com/563>[UNITY]모델링 머티리얼 적용시, Alpha texture 적용하기</a></br><a href=https://j2su0218.tistory.com/562>[UNITY]레이캐스트(Raycast)를 사용해서 충돌 처리하기</a></br><a href=https://j2su0218.tistory.com/561>[UNITY]Input System Refactor(리펙터링) - 구조 재조정</a></br>
