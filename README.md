@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/678>새벽의 연화 [25화]</a></br><a href=https://j2su0218.tistory.com/566>[UNITY]싱글톤 작성 패턴 방법 3가지</a></br><a href=https://j2su0218.tistory.com/565>[UNITY]TryGetComponet()와 GetComponet의 차이와 사용하는 방법</a></br><a href=https://j2su0218.tistory.com/564>[ETC]VisualStudio 스크립트 내 변수명 한번에 변경하기</a></br><a href=https://j2su0218.tistory.com/563>[UNITY]모델링 머티리얼 적용시, Alpha texture 적용하기</a></br>
+<a href=https://j2su0218.tistory.com/874>[GitHub] Tistory에 소스코드 넣는 방법(Github Gist)사용하기</a></br><a href=https://j2su0218.tistory.com/873>[깃허브 GitHub] GitHub에 이미지 넣기</a></br><a href=https://j2su0218.tistory.com/566>[UNITY]싱글톤 작성 패턴 방법 3가지</a></br><a href=https://j2su0218.tistory.com/565>[UNITY]TryGetComponet()와 GetComponet의 차이와 사용하는 방법</a></br><a href=https://j2su0218.tistory.com/564>[ETC]VisualStudio 스크립트 내 변수명 한번에 변경하기</a></br>
