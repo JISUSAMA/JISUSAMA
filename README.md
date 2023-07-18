@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/905>[UNITY]Player Input System 으로 캐릭터 컨트롤 하기</a></br><a href=https://j2su0218.tistory.com/875>[깃허브 GitHub] ReadMe 마크 다운(Markdown) 문법</a></br><a href=https://j2su0218.tistory.com/874>[GitHub] Tistory에 소스코드 넣는 방법(Github Gist)사용하기</a></br><a href=https://j2su0218.tistory.com/873>[깃허브 GitHub] GitHub에 이미지 넣기</a></br><a href=https://j2su0218.tistory.com/566>[UNITY]싱글톤 작성 패턴 방법 3가지</a></br>
+<a href=https://j2su0218.tistory.com/908>[UNITY]뷰포리아,No webcam profile has been found for your webcam 해결하기</a></br><a href=https://j2su0218.tistory.com/907>[UNITY]뷰포리아(Vuforia) 이용해서 XR 만들기(1)</a></br><a href=https://j2su0218.tistory.com/905>[UNITY]Player Input System 으로 캐릭터 컨트롤 하기</a></br><a href=https://j2su0218.tistory.com/875>[깃허브 GitHub] ReadMe 마크 다운(Markdown) 문법</a></br><a href=https://j2su0218.tistory.com/874>[GitHub] Tistory에 소스코드 넣는 방법(Github Gist)사용하기</a></br>
