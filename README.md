@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/942>[내돈내산in부산]경성대 부경대 치킨 맛집 “청도치킨” 리뷰 및 후기</a></br><a href=https://j2su0218.tistory.com/941>[내돈내산in부산]광안리 멕시코 타코를 맛볼 수 있는 “엘까르니따스” 솔직후기 & 리뷰</a></br><a href=https://j2su0218.tistory.com/939>[WEB]Bootstrap 사용 해서 쉽고 빠르게 디자인 하기</a></br><a href=https://j2su0218.tistory.com/938>[WEB]Font Awesome 라이브러리 사용하기</a></br><a href=https://j2su0218.tistory.com/937>[WEB]HTML 개발자 도구(디버깅) TIP</a></br>
+<a href=https://j2su0218.tistory.com/944>[내돈내산in경주] 황리단길 “청온채” 솔직 리뷰 및 후기</a></br><a href=https://j2su0218.tistory.com/943>[내돈내산in부산]경성대부경대 중식당 “이선생우육면” 솔직 후기 및 리뷰</a></br><a href=https://j2su0218.tistory.com/942>[내돈내산in부산]경성대 부경대 치킨 맛집 “청도치킨” 리뷰 및 후기</a></br><a href=https://j2su0218.tistory.com/941>[내돈내산in부산]광안리 멕시코 타코를 맛볼 수 있는 “엘까르니따스” 솔직후기 & 리뷰</a></br><a href=https://j2su0218.tistory.com/939>[WEB]Bootstrap 사용 해서 쉽고 빠르게 디자인 하기</a></br>
