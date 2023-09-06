@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/949>[HTML]Sass, @Mixin 사용하기</a></br><a href=https://j2su0218.tistory.com/948>[HTML]SASS 변수, Nesting, @Extend 문법사용하기</a></br><a href=https://j2su0218.tistory.com/947>[HTML]SASS 셋팅하기 & 변수 값 지정하는 방법</a></br><a href=https://j2su0218.tistory.com/944>[내돈내산in경주] 황리단길 “청온채” 솔직 리뷰 및 후기</a></br><a href=https://j2su0218.tistory.com/943>[내돈내산in부산]경성대부경대 중식당 “이선생우육면” 솔직 후기 및 리뷰</a></br>
+<a href=https://j2su0218.tistory.com/950>[HTML]SASS, @use 문법</a></br><a href=https://j2su0218.tistory.com/949>[HTML]Sass, @Mixin 사용하기</a></br><a href=https://j2su0218.tistory.com/948>[HTML]SASS 변수, Nesting, @Extend 문법사용하기</a></br><a href=https://j2su0218.tistory.com/947>[HTML]SASS 셋팅하기 & 변수 값 지정하는 방법</a></br><a href=https://j2su0218.tistory.com/944>[내돈내산in경주] 황리단길 “청온채” 솔직 리뷰 및 후기</a></br>
