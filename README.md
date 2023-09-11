@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/991>실업인정 절차</a></br><a href=https://j2su0218.tistory.com/953>[WEB]HTML, @keyframes 로 animaiton 만들기</a></br><a href=https://j2su0218.tistory.com/952>[WEB]HTML, transform사용하기</a></br><a href=https://j2su0218.tistory.com/951>[HTML]HTML 안에 Video, Audio 적용하는 방법</a></br><a href=https://j2su0218.tistory.com/950>[HTML]SASS, @use 문법</a></br>
+<a href=https://j2su0218.tistory.com/992>[WEB] HTML, Javascript 사용하기</a></br><a href=https://j2su0218.tistory.com/991>실업인정 절차</a></br><a href=https://j2su0218.tistory.com/953>[WEB]HTML, @keyframes 로 animaiton 만들기</a></br><a href=https://j2su0218.tistory.com/952>[WEB]HTML, transform사용하기</a></br><a href=https://j2su0218.tistory.com/951>[HTML]HTML 안에 Video, Audio 적용하는 방법</a></br>
