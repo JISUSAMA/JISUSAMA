@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/997>[WEB]HTML, javascript 응용 -Animation 만들기</a></br><a href=https://j2su0218.tistory.com/996>[WEB]jQuery(라이브러리)설치&기본 함수</a></br><a href=https://j2su0218.tistory.com/995>[WEB]HTML태그, class 속성 - Space(공백)으로 여러클래스 만들기</a></br><a href=https://j2su0218.tistory.com/994>[WEB]JS, Funtion 만들기-동적 UI 만들기</a></br><a href=https://j2su0218.tistory.com/993>WEB-참고 자료 모음</a></br>
+<a href=https://j2su0218.tistory.com/997>[WEB]jQuery 응용 -Animation 만들기</a></br><a href=https://j2su0218.tistory.com/996>[WEB]jQuery(라이브러리)설치&기본 함수</a></br><a href=https://j2su0218.tistory.com/995>[WEB]HTML태그, class 속성 - Space(공백)으로 여러클래스 만들기</a></br><a href=https://j2su0218.tistory.com/994>[WEB]JS, Funtion 만들기-동적 UI 만들기</a></br><a href=https://j2su0218.tistory.com/993>WEB-참고 자료 모음</a></br>
