@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1184>[WEB]JS-HTML추가 생성하기(createElement()/appendChild())</a></br><a href=https://j2su0218.tistory.com/1183>[WEB]JS-이미지 슬라이드 만들기</a></br><a href=https://j2su0218.tistory.com/1096>[WEB]JavaScript - setTimeout / setInterval 사용하기</a></br><a href=https://j2su0218.tistory.com/999>[WEB]JavaScript 변수(var, let, const) 사용하기</a></br><a href=https://j2su0218.tistory.com/998>[WEB] form(폼) 태그 사용하는 방법과 속성</a></br>
+<a href=https://j2su0218.tistory.com/1184>[WEB]JS-자바스크립트로 HTML 추가 생성하기</a></br><a href=https://j2su0218.tistory.com/1183>[WEB]JS-이미지 슬라이드 만들기</a></br><a href=https://j2su0218.tistory.com/1096>[WEB]JavaScript - setTimeout / setInterval 사용하기</a></br><a href=https://j2su0218.tistory.com/999>[WEB]JavaScript 변수(var, let, const) 사용하기</a></br><a href=https://j2su0218.tistory.com/998>[WEB] form(폼) 태그 사용하는 방법과 속성</a></br>
