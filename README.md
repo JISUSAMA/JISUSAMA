@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1231>[WEB]동기/비동기처리 와 콜백함수</a></br><a href=https://j2su0218.tistory.com/1185>[WEB] JS-for,forEach 문 사용하기</a></br><a href=https://j2su0218.tistory.com/1184>[WEB]JS-자바스크립트로 HTML 추가 생성하기</a></br><a href=https://j2su0218.tistory.com/1183>[WEB]JS-이미지 슬라이드 만들기</a></br><a href=https://j2su0218.tistory.com/1096>[WEB]JavaScript - setTimeout / setInterval 사용하기</a></br>
+<a href=https://j2su0218.tistory.com/1234>PC 아이콘 원하는 이미지로 변경하는 방법</a></br><a href=https://j2su0218.tistory.com/1233>작업표시줄에 종료 버튼 생성하기</a></br><a href=https://j2su0218.tistory.com/1231>[WEB]동기/비동기처리 와 콜백함수</a></br><a href=https://j2su0218.tistory.com/1185>[WEB] JS-for,forEach 문 사용하기</a></br><a href=https://j2su0218.tistory.com/1184>[WEB]JS-자바스크립트로 HTML 추가 생성하기</a></br>
