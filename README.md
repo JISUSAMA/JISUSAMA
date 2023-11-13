@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1238>[REACT: Error]no such file or directory, enoent This is related to npm not being able to find a file. 오류 해결하기</a></br><a href=https://j2su0218.tistory.com/1236>리액트(React) 프로젝트 폴더 분석하기</a></br><a href=https://j2su0218.tistory.com/1235>리액트(React) 설치 & 개발 환경 설정하기</a></br><a href=https://j2su0218.tistory.com/1234>PC 아이콘 원하는 이미지로 변경하는 방법</a></br><a href=https://j2su0218.tistory.com/1233>작업표시줄에 종료 버튼 생성하기</a></br>
+<a href=https://j2su0218.tistory.com/1242>구글, 광고 차단 알림 메세지 출력하는 방법</a></br><a href=https://j2su0218.tistory.com/1240>[무료 배포] 2024년 아이패드 굿노트 심플 다이어리</a></br><a href=https://j2su0218.tistory.com/1239>[React]Error: 'react-scripts'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는배치 파일이 아닙니다.  해결하기</a></br><a href=https://j2su0218.tistory.com/1238>[React: Error]no such file or directory, enoent This is related to npm not being able to find a file. 오류 해결하기</a></br><a href=https://j2su0218.tistory.com/1237>컴퓨터(로컬:C) 쓰레기 파일(Temp) 지우고 용량 늘리기</a></br>
