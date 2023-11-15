@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BYEOLCCI&fontSize=90" />	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JISUSAMA%20Github!&fontSize=90" />	
 </div>
 <div align=center>
 <h3>📚 Tech Stack 📚</h3>
@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1244>[React]리액트 'JSX 문법' 사용하기</a></br><a href=https://j2su0218.tistory.com/1243>[React]리액트의 핵심 특징</a></br><a href=https://j2su0218.tistory.com/1242>구글, 광고 차단 알림 메세지 출력하는 방법</a></br><a href=https://j2su0218.tistory.com/1240>[무료 배포] 2024년 아이패드 굿노트 심플 다이어리</a></br><a href=https://j2su0218.tistory.com/1239>[React]Error: 'react-scripts'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는배치 파일이 아닙니다.  해결하기</a></br>
+<a href=https://j2su0218.tistory.com/1247>[React] useState([배열]) 요소 값 변경하기</a></br><a href=https://j2su0218.tistory.com/1246>리액트(React) 터미널 경고 메시지안보이게 하는 방법</a></br><a href=https://j2su0218.tistory.com/1245>[React]훅/상태(state)/useState() 사용해서 상태 값 변경하는 법</a></br><a href=https://j2su0218.tistory.com/1244>[React]리액트 'JSX 문법' 사용하기</a></br><a href=https://j2su0218.tistory.com/1243>[React]리액트의 핵심 특징</a></br>
