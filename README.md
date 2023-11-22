@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1247>[React] useState([배열]) 요소 값 변경하기</a></br><a href=https://j2su0218.tistory.com/1246>리액트(React) 터미널 경고 메시지안보이게 하는 방법</a></br><a href=https://j2su0218.tistory.com/1245>[React]훅/상태(state)/useState() 사용해서 상태 값 변경하는 법</a></br><a href=https://j2su0218.tistory.com/1244>[React]리액트 'JSX 문법' 사용하기</a></br><a href=https://j2su0218.tistory.com/1243>[React]리액트의 핵심 특징</a></br>
+<a href=https://j2su0218.tistory.com/1248>[React]Error: Uncaught ReferenceError: React is not defined</a></br><a href=https://j2su0218.tistory.com/1247>[React] useState([배열]) 요소 값 변경하기</a></br><a href=https://j2su0218.tistory.com/1246>리액트(React) 터미널 경고 메시지안보이게 하는 방법</a></br><a href=https://j2su0218.tistory.com/1245>[React]훅/상태(state)/useState() 사용해서 상태 값 변경하는 법</a></br><a href=https://j2su0218.tistory.com/1244>[React]리액트 'JSX 문법' 사용하기</a></br>
