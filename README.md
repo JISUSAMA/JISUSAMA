@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1251>[React]리액트에서 이미지 넣는 방법(background-image/size/position)</a></br><a href=https://j2su0218.tistory.com/1250>[React]리액트 부트스트랩(Bootstrap) 설치&사용</a></br><a href=https://j2su0218.tistory.com/1249>[React]Github Pages 활성화 &리액트 build 올리기</a></br><a href=https://j2su0218.tistory.com/1248>[React]Error: Uncaught ReferenceError: React is not defined</a></br><a href=https://j2su0218.tistory.com/1247>[React] useState([배열]) 요소 값 변경하기</a></br>
+<a href=https://j2su0218.tistory.com/1252>[유럽 패키지 여행✈] 2023.08.24 1일차</a></br><a href=https://j2su0218.tistory.com/1251>[React]리액트에서 이미지 넣는 방법(background-image/size/position)</a></br><a href=https://j2su0218.tistory.com/1250>[React]리액트 부트스트랩(Bootstrap) 설치&사용</a></br><a href=https://j2su0218.tistory.com/1249>[React]Github Pages 활성화 &리액트 build 올리기</a></br><a href=https://j2su0218.tistory.com/1248>[React]Error: Uncaught ReferenceError: React is not defined</a></br>
