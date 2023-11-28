@@ -44,4 +44,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1285>[유럽 패키지 여행✈] 2023.08.25 2일차</a></br><a href=https://j2su0218.tistory.com/1284>리액트(React)  styled-components 설치 & 사용하기</a></br><a href=https://j2su0218.tistory.com/1283>리액트(React) 라우터 설치&셋팅</a></br><a href=https://j2su0218.tistory.com/1252>[유럽 패키지 여행✈] 2023.08.24 1일차</a></br><a href=https://j2su0218.tistory.com/1251>[React]리액트에서 이미지 넣는 방법(background-image/size/position)</a></br>
+<a href=https://j2su0218.tistory.com/1285>[유럽 패키지 여행✈] 2023.08.25 2일차 런던(London)</a></br><a href=https://j2su0218.tistory.com/1284>리액트(React)  styled-components 설치 & 사용하기</a></br><a href=https://j2su0218.tistory.com/1283>리액트(React) 라우터 설치&셋팅</a></br><a href=https://j2su0218.tistory.com/1252>[유럽 패키지 여행✈] 2023.08.24 1일차</a></br><a href=https://j2su0218.tistory.com/1251>[React]리액트에서 이미지 넣는 방법(background-image/size/position)</a></br>
