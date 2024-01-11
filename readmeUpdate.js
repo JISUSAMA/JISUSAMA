@@ -1,12 +1,11 @@
-import { writeFileSync } from 'node:fs';
+import { writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
 /**
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = 
-`<div align=center>
+let text = `<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JISUSAMA%20Github!&fontSize=90" />	
 </div>
 <div align=center>
@@ -45,7 +44,7 @@ let text =
 </a>
 <br>
 </div>
-<div al>
+<div aline=center>
 <h3>📚 Portfolio Project Sources Link 📚</h3>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
@@ -93,28 +92,28 @@ let text =
 
 // rss-parser 생성
 const parser = new Parser({
-    headers: {
-        Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
-    }});
+  headers: {
+    Accept: "application/rss+xml, application/xml, text/xml; q=0.1",
+  },
+});
 
 (async () => {
+  // 피드 목록
+  const feed = await parser.parseURL("https://j2su0218.tistory.com/rss");
 
-    // 피드 목록
-    const feed = await parser.parseURL('https://j2su0218.tistory.com/rss');
+  // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
+  for (let i = 0; i < 5; i++) {
+    const { title, link } = feed.items[i];
+    console.log(`${i + 1}번째 게시물`);
+    console.log(`추가될 제목: ${title}`);
+    console.log(`추가될 링크: ${link}`);
+    text += `<a href=${link}>${title}</a></br>`;
+  }
 
-    // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
-    for (let i = 0; i < 5; i++) {
-        const {title, link} = feed.items[i];
-        console.log(`${i + 1}번째 게시물`);
-        console.log(`추가될 제목: ${title}`);
-        console.log(`추가될 링크: ${link}`);
-        text += `<a href=${link}>${title}</a></br>`;
-    }
+  // README.md 파일 작성
+  writeFileSync("README.md", text, "utf8", (e) => {
+    console.log(e);
+  });
 
-    // README.md 파일 작성
-    writeFileSync('README.md', text, 'utf8', (e) => {
-        console.log(e)
-    })
-
-    console.log('업데이트 완료')
+  console.log("업데이트 완료");
 })();
