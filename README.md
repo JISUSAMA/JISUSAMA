@@ -37,7 +37,7 @@
 </a>
 <br>
 </div>
-<div align=center>
+<div aline=center>
 <h3>📚 Portfolio Project Sources Link 📚</h3>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
@@ -72,6 +72,8 @@
 
 </div>
 
+
+
 <div align=center>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISUSAMA&layout=compact">
@@ -79,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1288>error CS0433: The type 'IPurchaseReceipt' exists in both 'Security, Version=1.0.7698.24420, Culture=neutral, PublicKeyToken=null' and 'UnityEngine.Purchasing.SecurityCore, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 오류 해결하기</a></br><a href=https://j2su0218.tistory.com/1286>[유럽 패키지 여행✈] 2023.08.26 3일차 파리(Paris)</a></br><a href=https://j2su0218.tistory.com/1285>[유럽 패키지 여행✈] 2023.08.25 2일차 런던(London)</a></br><a href=https://j2su0218.tistory.com/1284>리액트(React) styled-components 설치 & 사용하기</a></br><a href=https://j2su0218.tistory.com/1283>리액트(React) 라우터 설치&셋팅</a></br>
+<a href=https://j2su0218.tistory.com/1288>error CS0433: The type 'IPurchaseReceipt' exists in both 'Security, Version=1.0.7698.24420, Culture=neutral, PublicKeyToken=null' and 'UnityEngine.Purchasing.SecurityCore, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' 오류 해결하기</a></br><a href=https://j2su0218.tistory.com/1286>[유럽 패키지 여행✈] 2023.08.26 3일차 파리(Paris)</a></br><a href=https://j2su0218.tistory.com/1285>[유럽 패키지 여행✈] 2023.08.25 2일차 런던(London)</a></br><a href=https://j2su0218.tistory.com/1284>리액트(React)  styled-components 설치 & 사용하기</a></br><a href=https://j2su0218.tistory.com/1283>리액트(React) 라우터 설치&셋팅</a></br>
