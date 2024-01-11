@@ -29,7 +29,7 @@
 <a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 </a>
-<a href="https://https://j2su0218.tistory.com">
+<a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
 <a href="mailto:admin@j2su0218@gmail.com">
@@ -37,6 +37,43 @@
 </a>
 <br>
 </div>
+<div al>
+<h3>📚 Portfolio Project Sources Link 📚</h3>
+<a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
+  👉 보자마자 Play2 모바일 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/BojamajaPlay2_realmotion">
+  👉 보자마자 Play2 리얼모션 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/BMF-Run.to.the.Moon">
+  👉 보자마자 피트니스 - 런 투더 문 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/BMF-CyclingTour">
+  👉 보자마자 피트니스 - 사이클링 투어 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/BMF-CityTourBusan">
+  👉 보자마자 피트니스 - 시티투어 부산 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/Bokcheon-dong">
+  👉 복천 박물관 - 복둥이의 시간여행 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/JBListen">
+  👉 [외주] JB Listen Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/BMF-BojamajaCare">
+  👉 보자마자 케어 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/BMF-BojamajaBrain">
+  👉 보자마자 브레인 Portfolio
+</a><br>
+<a href="https://github.com/JISUSAMA/BMF-AmazingCore">
+  👉 보자마자 피트니스 - 어메이징코어 Portfolio
+</a><br>
+
+</div>
+
+
+
 <div align=center>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISUSAMA&layout=compact">
