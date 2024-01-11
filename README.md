@@ -38,6 +38,21 @@
 <br>
 </div>
 <div align=center>
+<h3>📑 Portfolio 프로젝트 레포지토리 바로가기 📑</h3>
+<a href ='https://github.com/JISUSAMA/BojamajaPlay2_mobile'>◾ 보자마자 플레이2 모바일</a><br>
+<a href ='https://github.com/JISUSAMA/BojamajaPlay2_realmotion'>◾ 보자마자 플레이2 리얼모션</a><br>
+<a href ='https://github.com/JISUSAMA/BMF-Run.to.the.Moon'>◾ 보자마자 피트니스 - 런 투 더 문</a><br>
+<a href ='https://github.com/JISUSAMA/BMF-BojamajaBrain'>◾ 보자마자 브레인</a><br>
+<a href ='https://github.com/JISUSAMA/BMF-BojamajaCare'>◾ 보자마자 케어</a><br>
+<a href ='https://github.com/JISUSAMA/Bokcheon-dong'>◾ 복둥이의 시간 여행</a><br>
+<a href ='https://github.com/JISUSAMA/JBListen'>◾ (외주) JB리슨 </a><br>
+<a href ='https://github.com/JISUSAMA/BMF-AmazingCore'>◾ 보자마자 피트니스 - 어메이징 코어 </a><br>
+<a href ='https://github.com/JISUSAMA/BMF-CyclingTour'>◾ 보자마자 피트니스 - 사이클링 투어 </a><br>
+<a href ='https://github.com/JISUSAMA/BMF-CityTourBusan'>◾ 보자마자 피트니스 - 시티 투어 부산 </a><br>
+
+
+</div>
+<div align=center>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISUSAMA&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=JISUSAMA&show_icons=true">
