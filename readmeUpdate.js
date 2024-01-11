@@ -37,7 +37,7 @@ let text =
 <a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 </a>
-<a href="https://https://j2su0218.tistory.com">
+<a href="https://j2su0218.tistory.com">
     <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
 <a href="mailto:admin@j2su0218@gmail.com">
