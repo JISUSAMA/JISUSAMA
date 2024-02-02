@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1308>[React] memo / useMemo 사용하기</a></br><a href=https://j2su0218.tistory.com/1307>[React]lazy import를 사용해 파일 나누기</a></br><a href=https://j2su0218.tistory.com/1306>[React] React Developer Tools &  Redux DevTools 사용하기</a></br><a href=https://j2su0218.tistory.com/1305>[React] React Query 설치하기</a></br><a href=https://j2su0218.tistory.com/1304>[React]Bad argument type. Starting with v5, only the "Object" form is allowed when calling query related functions.Please use the error stack to find the culprit call. More info here:</a></br>
+<a href=https://j2su0218.tistory.com/1312>Progressive Web App 셋팅 & 앱 발행 방법</a></br><a href=https://j2su0218.tistory.com/1311>[React] useTranstion ,useDeferredValue  사용하기</a></br><a href=https://j2su0218.tistory.com/1310>[React] memo / useMemo 사용하기</a></br><a href=https://j2su0218.tistory.com/1309>[React] memo / useMemo 사용하기</a></br><a href=https://j2su0218.tistory.com/1308>[React] memo / useMemo 사용하기</a></br>
