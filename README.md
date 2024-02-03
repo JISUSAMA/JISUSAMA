@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1312>Progressive Web App 셋팅 & 앱 발행 방법</a></br><a href=https://j2su0218.tistory.com/1311>[React] useTranstion ,useDeferredValue  사용하기</a></br><a href=https://j2su0218.tistory.com/1310>[React] memo / useMemo 사용하기</a></br><a href=https://j2su0218.tistory.com/1309>[React] memo / useMemo 사용하기</a></br><a href=https://j2su0218.tistory.com/1308>[React] memo / useMemo 사용하기</a></br>
+<a href=https://j2su0218.tistory.com/1313>[UNITY]Play In-App Update (인앱 업데이트) 방법</a></br><a href=https://j2su0218.tistory.com/1312>Progressive Web App 셋팅 & 앱 발행 방법</a></br><a href=https://j2su0218.tistory.com/1311>[React] useTranstion ,useDeferredValue  사용하기</a></br><a href=https://j2su0218.tistory.com/1310>[React] memo / useMemo 사용하기</a></br><a href=https://j2su0218.tistory.com/1309>[React] memo / useMemo 사용하기</a></br>
