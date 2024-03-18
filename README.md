@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1330>[UNITY] AddForce , AddTorque,ForceMode 의 종류</a></br><a href=https://j2su0218.tistory.com/1329>[MacOS]개발자 맥북(Mac) 세팅 과정</a></br><a href=https://j2su0218.tistory.com/1328>[Mac OS] 맥북 JAVA 환경 변수 설정하는 방법</a></br><a href=https://j2su0218.tistory.com/1327>구글 콘솔 플레이 , 개인정보처리방침 사이트 만들기</a></br><a href=https://j2su0218.tistory.com/pages/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EB%B0%A9%EC%B9%A8>개인정보처리방침</a></br>
+<a href=https://j2su0218.tistory.com/1334>[UNITY]Photon PUN2(4) - 플레이어 세팅</a></br><a href=https://j2su0218.tistory.com/1333>[UNITY]Photon Pun2 (3) - 캐릭터 설정 해주기</a></br><a href=https://j2su0218.tistory.com/1332>[UNITY]Photon PUN2 (2) - 서버 만들기 스크립트 작성</a></br><a href=https://j2su0218.tistory.com/1331>[UNITY] Photon PUN 2 (1) - 포톤 계정 만들기</a></br><a href=https://j2su0218.tistory.com/1330>[UNITY] AddForce , AddTorque,ForceMode 의 종류</a></br>
