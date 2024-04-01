@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1335>[UNITY]포톤(PUN2) - 실습 작업 과정</a></br><a href=https://j2su0218.tistory.com/1334>[UNITY]Photon PUN2(4) - 플레이어 세팅</a></br><a href=https://j2su0218.tistory.com/1333>[UNITY]Photon Pun2 (3) - 캐릭터 설정 해주기</a></br><a href=https://j2su0218.tistory.com/1332>[UNITY]Photon PUN2 (2) - 서버 만들기 스크립트 작성</a></br><a href=https://j2su0218.tistory.com/1331>[UNITY] Photon PUN 2 (1) - 포톤 계정 만들기</a></br>
+<a href=https://j2su0218.tistory.com/1336>[UNITY]Photon, 콜백 함수 정리하기</a></br><a href=https://j2su0218.tistory.com/1335>[UNITY]포톤(PUN2) - 실습 작업 과정</a></br><a href=https://j2su0218.tistory.com/1334>[UNITY]Photon PUN2(4) - 플레이어 세팅</a></br><a href=https://j2su0218.tistory.com/1333>[UNITY]Photon Pun2 (3) - 캐릭터 설정 해주기</a></br><a href=https://j2su0218.tistory.com/1332>[UNITY]Photon PUN2 (2) - 서버 만들기 스크립트 작성</a></br>
