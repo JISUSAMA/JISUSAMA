@@ -37,7 +37,7 @@
 </a>
 <br>
 </div>
-<div align=center>
+<div aline=center>
 <h3>📚 Portfolio Project Sources Link 📚</h3>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=http://j2su0218.tistory.com/1342>[UNITY]Task.Start/Task.Run 메소드</a></br><a href=http://j2su0218.tistory.com/1341>[UNITY]Task.ConfigureAwait 메서드</a></br><a href=http://j2su0218.tistory.com/1340>[UNITY]비동기 작업 : Task 메서드 사용하는 방법</a></br><a href=http://j2su0218.tistory.com/1339>[UNITY]비동기 프로그램 만들기: async / await</a></br><a href=http://j2su0218.tistory.com/1338>[UNITY]파일 선택 다이얼로그 사용하기: EditorUtility.OpenFilePanel 함수 사용법</a></br>
+<a href=http://j2su0218.tistory.com/1343>[UNITY]여러개의 Task 받아서 처리하기(Task.WhenAny/WhenAll)</a></br><a href=http://j2su0218.tistory.com/1342>[UNITY]Task.Start/Task.Run 메소드</a></br><a href=http://j2su0218.tistory.com/1341>[UNITY]Task.ConfigureAwait 메서드</a></br><a href=http://j2su0218.tistory.com/1340>[UNITY]비동기 작업 : Task 메서드 사용하는 방법</a></br><a href=http://j2su0218.tistory.com/1339>[UNITY]비동기 프로그램 만들기: async / await</a></br>
