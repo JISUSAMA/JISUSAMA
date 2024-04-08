@@ -37,7 +37,7 @@
 </a>
 <br>
 </div>
-<div aline=center>
+<div align=center>
 <h3>📚 Portfolio Project Sources Link 📚</h3>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
