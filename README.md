@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1343>[UNITY]여러개의 Task 받아서 처리하기(Task.WhenAny/WhenAll)</a></br><a href=https://j2su0218.tistory.com/1342>[UNITY]Task.Start/Task.Run 메소드</a></br><a href=https://j2su0218.tistory.com/1341>[UNITY]Task.ConfigureAwait 메서드</a></br><a href=https://j2su0218.tistory.com/1340>[UNITY]비동기 작업 : Task 메서드 사용하는 방법</a></br><a href=https://j2su0218.tistory.com/1339>[UNITY]비동기 프로그램 만들기: async / await</a></br>
+<a href=https://j2su0218.tistory.com/1398>Window 11, Oracle Database 21 EX 설치가 완료 되었지만 오류발생</a></br><a href=https://j2su0218.tistory.com/1397>Window 11 , 설치 파일 이름 변경하는 방법</a></br><a href=https://j2su0218.tistory.com/1343>[UNITY]여러개의 Task 받아서 처리하기(Task.WhenAny/WhenAll)</a></br><a href=https://j2su0218.tistory.com/1342>[UNITY]Task.Start/Task.Run 메소드</a></br><a href=https://j2su0218.tistory.com/1341>[UNITY]Task.ConfigureAwait 메서드</a></br>
