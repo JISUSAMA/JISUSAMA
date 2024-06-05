@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1399>Sql Developer  - 관리자 계정 접속 오류 해결하기</a></br><a href=https://j2su0218.tistory.com/1398>Window 11, Oracle Database 21 EX 설치가 완료 되었지만 오류발생</a></br><a href=https://j2su0218.tistory.com/1397>Window 11 , 설치 파일 이름 변경하는 방법</a></br><a href=https://j2su0218.tistory.com/1343>[UNITY]여러개의 Task 받아서 처리하기(Task.WhenAny/WhenAll)</a></br><a href=https://j2su0218.tistory.com/1342>[UNITY]Task.Start/Task.Run 메소드</a></br>
+<a href=https://j2su0218.tistory.com/1402>SQL Developer - HR 계정 생성하기</a></br><a href=https://j2su0218.tistory.com/1401>Sql Developer - SCOTT 계정 생성/스크립트 테이블 만들</a></br><a href=https://j2su0218.tistory.com/1400>[SQL] 데이터베이스(DBMS) - Oracle /SQL  Developer 설치 및 연결</a></br><a href=https://j2su0218.tistory.com/1399>Sql Developer  - 관리자 계정 접속 오류 해결하기</a></br><a href=https://j2su0218.tistory.com/1398>Window 11, Oracle Database 21 EX 설치가 완료 되었지만 오류발생</a></br>
