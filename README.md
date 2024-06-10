@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1405>Oracle Java, 설치 및 환경변수 설정하기</a></br><a href=https://j2su0218.tistory.com/1404>SQL-기초(2) 집합연산자</a></br><a href=https://j2su0218.tistory.com/1403>SQL 기초 (1) - 테이블 출력 하기</a></br><a href=https://j2su0218.tistory.com/1402>SQL Developer - HR 계정 생성하기</a></br><a href=https://j2su0218.tistory.com/1401>Sql Developer - SCOTT 계정 생성/스크립트 테이블 만들</a></br>
+<a href=https://j2su0218.tistory.com/1407>Java 객체(Object)와 클래스(Class) 이해하기</a></br><a href=https://j2su0218.tistory.com/1406>인텔리J 설치 및 탭 사이즈 조절 /UTF-8  기본 설정 하기</a></br><a href=https://j2su0218.tistory.com/1405>Oracle Java, 설치 및 환경변수 설정하기</a></br><a href=https://j2su0218.tistory.com/1404>SQL-기초(2) 집합연산자</a></br><a href=https://j2su0218.tistory.com/1403>SQL 기초 (1) - 테이블 출력 하기</a></br>
