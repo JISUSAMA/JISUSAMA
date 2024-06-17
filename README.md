@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1343>[UNITY]여러개의 Task 받아서 처리하기(Task.WhenAny/WhenAll)</a></br><a href=https://j2su0218.tistory.com/1342>[UNITY]Task.Start/Task.Run 메소드</a></br><a href=https://j2su0218.tistory.com/1341>[UNITY]Task.ConfigureAwait 메서드</a></br><a href=https://j2su0218.tistory.com/1340>[UNITY]비동기 작업 : Task 메서드 사용하는 방법</a></br><a href=https://j2su0218.tistory.com/1339>[UNITY]비동기 프로그램 만들기: async / await</a></br>
+<a href=https://j2su0218.tistory.com/1408>Java - Class 선언 / 패키지 사용하기</a></br><a href=https://j2su0218.tistory.com/1407>Java 객체(Object)와 클래스(Class) 이해하기</a></br><a href=https://j2su0218.tistory.com/1406>인텔리J 설치 및 탭 사이즈 조절 /UTF-8  기본 설정 하기</a></br><a href=https://j2su0218.tistory.com/1405>Oracle Java, 설치 및 환경변수 설정하기</a></br><a href=https://j2su0218.tistory.com/1404>SQL-기초(2) 집합연산자</a></br>
