@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1411>Java- switchCase</a></br><a href=https://j2su0218.tistory.com/1410>Java- 정보은닉(incapsulation),getter/setter 사용하기</a></br><a href=https://j2su0218.tistory.com/1409>Java - Class 변수 선언</a></br><a href=https://j2su0218.tistory.com/1408>Java - Class 선언 / 패키지 사용하기</a></br><a href=https://j2su0218.tistory.com/1407>Java 객체(Object)와 클래스(Class) 이해하기</a></br>
+<a href=https://j2su0218.tistory.com/1412>java - 배열[Array]</a></br><a href=https://j2su0218.tistory.com/1411>Java- switchCase</a></br><a href=https://j2su0218.tistory.com/1410>Java- 정보은닉(incapsulation),getter/setter 사용하기</a></br><a href=https://j2su0218.tistory.com/1409>Java - Class 변수 선언</a></br><a href=https://j2su0218.tistory.com/1408>Java - Class 선언 / 패키지 사용하기</a></br>
