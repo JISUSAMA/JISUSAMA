@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1414>Java :: 활용 -String</a></br><a href=https://j2su0218.tistory.com/1413>Java::확장-extends(상속)</a></br><a href=https://j2su0218.tistory.com/1412>Java::구성 - 배열[Array]</a></br><a href=https://j2su0218.tistory.com/1411>Java::구성- switchCase</a></br><a href=https://j2su0218.tistory.com/1410>Java:: 구성- 정보은닉(incapsulation),getter/setter 사용하기</a></br>
+<a href=https://j2su0218.tistory.com/1415>Java:: 입출력 Stream I/O</a></br><a href=https://j2su0218.tistory.com/1414>Java :: 활용 -String</a></br><a href=https://j2su0218.tistory.com/1413>Java::확장-extends(상속)</a></br><a href=https://j2su0218.tistory.com/1412>Java::구성 - 배열[Array]</a></br><a href=https://j2su0218.tistory.com/1411>Java::구성- switchCase</a></br>
