@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1426>노션 단축키 정리</a></br><a href=https://j2su0218.tistory.com/1425>[Spring]::Startbootstrap - Simple Sidebar 사용하기</a></br><a href=https://j2su0218.tistory.com/1424>[Spring]::Fragments</a></br><a href=https://j2su0218.tistory.com/1423>[Spring] 타임리프(Thymeleaf )</a></br><a href=https://j2su0218.tistory.com/1422>[Spring]Spring 시작하기</a></br>
+<a href=https://j2su0218.tistory.com/1427>DNN(Deep Neural Network)에서 **활성화 함수(Activation Function)**</a></br><a href=https://j2su0218.tistory.com/1426>노션 단축키 정리</a></br><a href=https://j2su0218.tistory.com/1425>[Spring]::Startbootstrap - Simple Sidebar 사용하기</a></br><a href=https://j2su0218.tistory.com/1424>[Spring]::Fragments</a></br><a href=https://j2su0218.tistory.com/1423>[Spring] 타임리프(Thymeleaf )</a></br>
