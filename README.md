@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1436>서버 사이드 랜더링 방식</a></br><a href=https://j2su0218.tistory.com/1435>전세보증보험 이행청구 준비:: 주택임차권등기 명령 신청서 서류 준비하기</a></br><a href=https://j2su0218.tistory.com/1434>Spring / Spring boot</a></br><a href=https://j2su0218.tistory.com/1433>Spring[EX06.코드] - 데이터 , 이미지 등록(통합구현)</a></br><a href=https://j2su0218.tistory.com/1432>CSRF - API 서버</a></br>
+<a href=https://j2su0218.tistory.com/1441>DNN 을 사용해서 심장병 질환 예측 분석하기</a></br><a href=https://j2su0218.tistory.com/1440>PyTorch를 사용하여 DNN(Deep Neural Network)을 구축하고, MNIST 데이터셋을 이용해 학습 및 평가</a></br><a href=https://j2su0218.tistory.com/1439>DNN 알고리즘</a></br><a href=https://j2su0218.tistory.com/1438>인공지능 - torch</a></br><a href=https://j2su0218.tistory.com/1437>인공지능(AI)</a></br>
