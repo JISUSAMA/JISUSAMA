@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1442>CIFAR-10 데이터셋을 PyTorch에서 불러와 이미지 샘플을 시각화</a></br><a href=https://j2su0218.tistory.com/1441>DNN 을 사용해서 심장병 질환 예측 분석하기</a></br><a href=https://j2su0218.tistory.com/1440>PyTorch를 사용하여 DNN(Deep Neural Network)을 구축하고, MNIST 데이터셋을 이용해 학습 및 평가</a></br><a href=https://j2su0218.tistory.com/1439>DNN 알고리즘</a></br><a href=https://j2su0218.tistory.com/1438>인공지능 - torch</a></br>
+<a href=https://j2su0218.tistory.com/1443>[Python]Python-Gramma- Print</a></br><a href=https://j2su0218.tistory.com/1442>CIFAR-10 데이터셋을 PyTorch에서 불러와 이미지 샘플을 시각화</a></br><a href=https://j2su0218.tistory.com/1441>DNN 을 사용해서 심장병 질환 예측 분석하기</a></br><a href=https://j2su0218.tistory.com/1440>PyTorch를 사용하여 DNN(Deep Neural Network)을 구축하고, MNIST 데이터셋을 이용해 학습 및 평가</a></br><a href=https://j2su0218.tistory.com/1439>DNN 알고리즘</a></br>
