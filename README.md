@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1462>[Python]constant</a></br><a href=https://j2su0218.tistory.com/1461>[Python]Variable[ 자료형 ]</a></br><a href=https://j2su0218.tistory.com/1460>thinter-데이터 불러오기</a></br><a href=https://j2su0218.tistory.com/1443>[Python]Python-Gramma- Print</a></br><a href=https://j2su0218.tistory.com/1442>CIFAR-10 데이터셋을 PyTorch에서 불러와 이미지 샘플을 시각화</a></br>
+<a href=https://j2su0218.tistory.com/1463>[Python]condition - 조건문</a></br><a href=https://j2su0218.tistory.com/1462>[Python]constant</a></br><a href=https://j2su0218.tistory.com/1461>[Python]Variable[ 자료형 ]</a></br><a href=https://j2su0218.tistory.com/1460>thinter-데이터 불러오기</a></br><a href=https://j2su0218.tistory.com/1443>[Python]Python-Gramma- Print</a></br>
