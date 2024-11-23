@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1465>[Python]반복문 roof</a></br><a href=https://j2su0218.tistory.com/1464>Python - Operator(연산)</a></br><a href=https://j2su0218.tistory.com/1463>[Python]condition - 조건문</a></br><a href=https://j2su0218.tistory.com/1462>[Python]constant</a></br><a href=https://j2su0218.tistory.com/1461>[Python]Variable[ 자료형 ]</a></br>
+<a href=https://j2su0218.tistory.com/1466>[Python] 리스트 List</a></br><a href=https://j2su0218.tistory.com/1465>[Python]반복문 roof</a></br><a href=https://j2su0218.tistory.com/1464>Python - Operator(연산)</a></br><a href=https://j2su0218.tistory.com/1463>[Python]condition - 조건문</a></br><a href=https://j2su0218.tistory.com/1462>[Python]constant</a></br>
