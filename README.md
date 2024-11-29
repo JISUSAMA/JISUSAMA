@@ -81,4 +81,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1474>Excel  이용해서 파일 불러오기</a></br><a href=https://j2su0218.tistory.com/1470>Python - tkinter</a></br><a href=https://j2su0218.tistory.com/1469>Python -dict</a></br><a href=https://j2su0218.tistory.com/1468>Python-Set</a></br><a href=https://j2su0218.tistory.com/1467>[Python]Tuple</a></br>
+<a href=https://j2su0218.tistory.com/1471>python - windowLocationInfo</a></br><a href=https://j2su0218.tistory.com/1474>Excel  이용해서 파일 불러오기</a></br><a href=https://j2su0218.tistory.com/1470>Python - tkinter</a></br><a href=https://j2su0218.tistory.com/1469>Python -dict</a></br><a href=https://j2su0218.tistory.com/1468>Python-Set</a></br>
