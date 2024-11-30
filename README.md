@@ -85,7 +85,7 @@
   👉 복천 박물관 - 복둥이의 시간여행 Portfolio
 </a><br>
 <a href="https://github.com/JISUSAMA/JBListen">
-  👉 [외주] JB Listen Portfolio
+  👉 전북 - JB Listen Portfolio
 </a><br>
 </div>
 

@@ -53,7 +53,7 @@ let text = `<div align=center>
 </a><br>
 <a href="https://github.com/JISUSAMA/SnapTideAPI">
   👉 SnapTide API Backend[Springboot]
-</a><br>
+</a>
 <h4>📁 FilmCritiq(SSR)</h4>
 <a href="https://github.com/JISUSAMA/FilmCritiq">
   👉 FilmCritiq[Springboot]
@@ -61,14 +61,16 @@ let text = `<div align=center>
 <h4>📁 Team_ShakePot(CSR)</h4>
 <a href="https://github.com/JISUSAMA/Team_ShakePot">
   👉 Team_ShakePot[Springboot/React]
-</a><br>
-<h4>Unity Projects</h4>
+</a>
+<h3>Unity Projects</h3>
+<h4>📁 보자마자 PLAY 시리즈</h4>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
 </a><br>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_realmotion">
   👉 보자마자 Play2 리얼모션 Portfolio
-</a><br>
+</a>
+<h4>📁 보자마자 피트니스 시리즈</h4>
 <a href="https://github.com/JISUSAMA/BMF-Run.to.the.Moon">
   👉 보자마자 피트니스 - 런 투더 문 Portfolio
 </a><br>
@@ -78,25 +80,24 @@ let text = `<div align=center>
 <a href="https://github.com/JISUSAMA/BMF-CityTourBusan">
   👉 보자마자 피트니스 - 시티투어 부산 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/Bokcheon-dong">
-  👉 복천 박물관 - 복둥이의 시간여행 Portfolio
-</a><br>
-<a href="https://github.com/JISUSAMA/JBListen">
-  👉 [외주] JB Listen Portfolio
-</a><br>
+<a href="https://github.com/JISUSAMA/BMF-AmazingCore">
+  👉 보자마자 피트니스 - 어메이징코어 Portfolio
+</a>
+<h4>📁 보자마자 케어 시리즈</h4>
 <a href="https://github.com/JISUSAMA/BMF-BojamajaCare">
   👉 보자마자 케어 Portfolio
 </a><br>
 <a href="https://github.com/JISUSAMA/BMF-BojamajaBrain">
   👉 보자마자 브레인 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/BMF-AmazingCore">
-  👉 보자마자 피트니스 - 어메이징코어 Portfolio
+<h4>📁 외주 프로젝트</h4>
+<a href="https://github.com/JISUSAMA/Bokcheon-dong">
+  👉 복천 박물관 - 복둥이의 시간여행 Portfolio
 </a><br>
-
+<a href="https://github.com/JISUSAMA/JBListen">
+  👉 전북 - JB Listen Portfolio
+</a><br>
 </div>
-
-
 
 <div align=center>
 <br>
