@@ -1,7 +1,4 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JISUSAMA%20Github!&fontSize=90" />	
-</div>
-<div align=center>
 <h3>📚 Tech Stack 📚</h3>
 <p>✨ Platforms & Languages ✨</p>
 </div>
@@ -39,6 +36,25 @@
 </div>
 <div align=center>
 <h3>📚 Portfolio Project Sources Link 📚</h3>
+<h3>Front/Backend Projects</h3>
+<h4>📁 SnapTide(CSR)</h4>
+<a href="https://github.com/JISUSAMA/SnapTide">
+  👉 SnapTide Frontend[React]
+</a><br>
+<a href="https://github.com/JISUSAMA/SnapTideAPI">
+  👉 SnapTide API Backend[Springboot]
+</a><br>
+<h4>📁 FilmCritiq(SSR)</h4>
+<a href="https://github.com/JISUSAMA/FilmCritiq">
+  👉 FilmCritiq[Springboot]
+</a><br>
+<h4>📁 Team_ShakePot(CSR)</h4>
+<a href="https://github.com/JISUSAMA/Team_ShakePot">
+  👉 Team_ShakePot[Springboot/React]
+</a><br>
+--
+<br><br>
+<h4>Unity Projects</h4>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
 </a><br>
@@ -72,8 +88,6 @@
 
 </div>
 
-
-
 <div align=center>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISUSAMA&layout=compact">
@@ -81,4 +95,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1472>RawImageViewer / NoteFile</a></br><a href=https://j2su0218.tistory.com/1471>python - windowLocationInfo</a></br><a href=https://j2su0218.tistory.com/1474>Excel  이용해서 파일 불러오기</a></br><a href=https://j2su0218.tistory.com/1470>Python - tkinter</a></br><a href=https://j2su0218.tistory.com/1469>Python -dict</a></br>
+<a href=https://j2su0218.tistory.com/1472>RawImageViewer / NoteFile</a></br><a href=https://j2su0218.tistory.com/1471>python - windowLocationInfo</a></br><a href=https://j2su0218.tistory.com/1474>Excel 이용해서 파일 불러오기</a></br><a href=https://j2su0218.tistory.com/1470>Python - tkinter</a></br><a href=https://j2su0218.tistory.com/1469>Python -dict</a></br>
