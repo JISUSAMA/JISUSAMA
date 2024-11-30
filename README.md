@@ -1,6 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JISUSAMA%20Github!&fontSize=90" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JISUSAMA%20Github!&fontSize=90" />	
 </div>
 <div align=center>
 <h3>📚 Tech Stack 📚</h3>
@@ -20,6 +19,7 @@
 <img src="https://img.shields.io/badge/Unity%203D-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <br>
+
 </div>
 <br>
 <div align=center>
@@ -99,4 +99,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1472>RawImageViewer / NoteFile</a></br><a href=https://j2su0218.tistory.com/1471>python - windowLocationInfo</a></br><a href=https://j2su0218.tistory.com/1474>Excel 이용해서 파일 불러오기</a></br><a href=https://j2su0218.tistory.com/1470>Python - tkinter</a></br><a href=https://j2su0218.tistory.com/1469>Python -dict</a></br>
+<a href=https://j2su0218.tistory.com/1472>RawImageViewer / NoteFile</a></br><a href=https://j2su0218.tistory.com/1471>python - windowLocationInfo</a></br><a href=https://j2su0218.tistory.com/1474>Excel  이용해서 파일 불러오기</a></br><a href=https://j2su0218.tistory.com/1470>Python - tkinter</a></br><a href=https://j2su0218.tistory.com/1469>Python -dict</a></br>
