@@ -62,8 +62,6 @@ let text = `<div align=center>
 <a href="https://github.com/JISUSAMA/Team_ShakePot">
   👉 Team_ShakePot[Springboot/React]
 </a><br>
---
-<br><br>
 <h4>Unity Projects</h4>
 <a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
