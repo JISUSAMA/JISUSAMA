@@ -99,4 +99,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1473>dataAnalysis</a></br><a href=https://j2su0218.tistory.com/1472>RawImageViewer / NoteFile</a></br><a href=https://j2su0218.tistory.com/1471>python - windowLocationInfo</a></br><a href=https://j2su0218.tistory.com/1474>Excel  이용해서 파일 불러오기</a></br><a href=https://j2su0218.tistory.com/1470>Python - tkinter</a></br>
+<a href=https://j2su0218.tistory.com/1475>Python - Database</a></br><a href=https://j2su0218.tistory.com/1473>dataAnalysis</a></br><a href=https://j2su0218.tistory.com/1472>RawImageViewer / NoteFile</a></br><a href=https://j2su0218.tistory.com/1471>python - windowLocationInfo</a></br><a href=https://j2su0218.tistory.com/1474>Excel  이용해서 파일 불러오기</a></br>
