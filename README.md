@@ -99,4 +99,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1479>HTML 기본 구조 이해: HTML, HEAD, BODY, TITLE 태그 설명</a></br><a href=https://j2su0218.tistory.com/1478>HTML - 블록레벨 (Block level) 요소와 인라인(Inline) 요소</a></br><a href=https://j2su0218.tistory.com/1476>thinter-데이터 불러오기</a></br><a href=https://j2su0218.tistory.com/1475>Python - Database</a></br><a href=https://j2su0218.tistory.com/1473>dataAnalysis</a></br>
+<a href=https://j2su0218.tistory.com/1480>EUC-KR vs UTF-8: 문자 인코딩 방식의 차이</a></br><a href=https://j2su0218.tistory.com/1479>HTML 기본 구조 이해: HTML, HEAD, BODY, TITLE 태그 설명</a></br><a href=https://j2su0218.tistory.com/1478>HTML - 블록레벨 (Block level) 요소와 인라인(Inline) 요소</a></br><a href=https://j2su0218.tistory.com/1476>thinter-데이터 불러오기</a></br><a href=https://j2su0218.tistory.com/1475>Python - Database</a></br>
