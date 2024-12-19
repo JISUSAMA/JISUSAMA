@@ -99,4 +99,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1483>파이참(pycham) tenserflow. 에러 / 명령어로 설치 하기</a></br><a href=https://j2su0218.tistory.com/1481>개발자를 위한 웹 기술 :: mdn web docs</a></br><a href=https://j2su0218.tistory.com/1480>EUC-KR vs UTF-8: 문자 인코딩 방식의 차이</a></br><a href=https://j2su0218.tistory.com/1479>HTML 기본 구조 이해: HTML, HEAD, BODY, TITLE 태그 설명</a></br><a href=https://j2su0218.tistory.com/1478>HTML - 블록레벨 (Block level) 요소와 인라인(Inline) 요소</a></br>
+<a href=https://j2su0218.tistory.com/1484>굿노트 다이어리 2025 심플 라이프 플래너 (Monthly / Weekly / ToDo)</a></br><a href=https://j2su0218.tistory.com/1483>파이참(pycham) tenserflow. 에러 / 명령어로 설치 하기</a></br><a href=https://j2su0218.tistory.com/1481>개발자를 위한 웹 기술 :: mdn web docs</a></br><a href=https://j2su0218.tistory.com/1480>EUC-KR vs UTF-8: 문자 인코딩 방식의 차이</a></br><a href=https://j2su0218.tistory.com/1479>HTML 기본 구조 이해: HTML, HEAD, BODY, TITLE 태그 설명</a></br>
