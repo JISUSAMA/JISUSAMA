@@ -6,7 +6,7 @@ import Parser from "rss-parser";
  * @type {string}
  */
 let text = `<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time,%20One%20Step%20Forward&fontSize=90" />	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time,%20One%20Step%20Forward&fontSize=40" />	
 </div>
 </div>
 <div align=center>
