@@ -15,17 +15,22 @@ let text = `<div align=center>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Python-006699?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
 <br>
 <div align=center>
+<br>
 <p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity%203D-2C2255?style=flat&logo=Unity3D&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-<br>
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=flat&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity%203D-181717?style=flat&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/IntelliJ-ED2761?style=flat&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Rider-7360F2?style=flat&logo=rider&logoColor=white" />
+<img src="https://img.shields.io/badge/Pycharm-13C100?style=flat&logo=pycharm&logoColor=white" /><br>
 
 </div>
 <br>
@@ -33,7 +38,7 @@ let text = `<div align=center>
 <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-<a href="https://j2su0218.tistory.com">
+<a href="https://github.com/JISUSAMA/JISUSAMA/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
     <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 </a>
 <a href="https://j2su0218.tistory.com">
