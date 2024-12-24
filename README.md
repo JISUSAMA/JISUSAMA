@@ -15,7 +15,7 @@
 </div>
 <div align=center>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity%203D-2C2255?style=flat&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity%203D-181717?style=flat&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /><br>
 
 </div>
@@ -24,7 +24,7 @@
 <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-<a href="https://j2su0218.tistory.com">
+<a href="https://github.com/JISUSAMA/JISUSAMA/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
     <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 </a>
 <a href="https://j2su0218.tistory.com">
