@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time,%20One%20Step%20Forward&fontSize=90" />	
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time,%20One%20Step%20Forward&fontSize=60" />	
 </div>
 <div align=center>
 <h3>📚 Tech Stack 📚</h3>
