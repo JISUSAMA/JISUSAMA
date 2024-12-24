@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-<img src="https://img.shields.io/badge/Unity%203D-2C2255?style=flat&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity%203D-2C2255?style=flat&logo=Unity&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 <br>
