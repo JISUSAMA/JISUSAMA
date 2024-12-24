@@ -8,9 +8,9 @@
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-F7DF1E?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-F7DF1E?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Python-006699?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <br>
 <div align=center>
 <p>🛠 Tools 🛠</p>
@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=flat&logo=GitHub&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity%203D-181717?style=flat&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/IntelliJ-007ACC?style=flat&logo=intellijidea&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Pycharm-007ACC?style=flat&logo=pycharm&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/IntelliJ-ED2761?style=flat&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/Pycharm-13C100?style=flat&logo=pycharm&logoColor=white" /><br>
 
 </div>
 <br>
