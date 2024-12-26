@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1486>Issues :: PyTorch .h 학습 모델을 ONNX로 변환 안되는 문제 해결하기</a></br><a href=https://j2su0218.tistory.com/1485>Mac 터미널 명령어</a></br><a href=https://j2su0218.tistory.com/1484>굿노트 다이어리 2025 심플 라이프 플래너 (Monthly / Weekly / ToDo)</a></br><a href=https://j2su0218.tistory.com/1483>파이참(pycham) tenserflow. 에러 / 명령어로 설치 하기</a></br><a href=https://j2su0218.tistory.com/1481>개발자를 위한 웹 기술 :: mdn web docs</a></br>
+<a href=https://j2su0218.tistory.com/1487>유니티 Barracuda(바라쿠다) Unity에서 딥러닝 모델을 실행하기</a></br><a href=https://j2su0218.tistory.com/1486>Issues :: PyTorch .h 학습 모델을 ONNX로 변환 안되는 문제 해결하기</a></br><a href=https://j2su0218.tistory.com/1485>Mac 터미널 명령어</a></br><a href=https://j2su0218.tistory.com/1484>굿노트 다이어리 2025 심플 라이프 플래너 (Monthly / Weekly / ToDo)</a></br><a href=https://j2su0218.tistory.com/1483>파이참(pycham) tenserflow. 에러 / 명령어로 설치 하기</a></br>
