@@ -142,7 +142,7 @@ const parser = new Parser({
   console.log("업데이트 완료");
 })(async () => {
   // 피드 목록
-  const feed = await parser.parseURL("https://blog.naver.com/j2su0218/rss");
+  const feed = await parser.parseURL("https://blog.naver.com/bugisu/rss");
 
   // 최신 5개의 글의 제목과 링크를 가져온 후 text에 추가
   for (let i = 0; i < 5; i++) {
