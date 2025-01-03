@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1495>Barracuda :: M-LSD(Line Segment Detection)</a></br><a href=https://j2su0218.tistory.com/1494>Barracuda :: SelfieBarracuda</a></br><a href=https://j2su0218.tistory.com/1493>Barracuda :: BodyPix</a></br><a href=https://j2su0218.tistory.com/1492>Barracuda :: Waifu2xBarracuda</a></br><a href=https://j2su0218.tistory.com/1491>Barracuda :: Mnist를 CPU와 GPU 에서 움직이는 방법</a></br>
+<a href=https://j2su0218.tistory.com/1496>Barracuda :: Yolo v4 tiny/ Yolo v2 tiny</a></br><a href=https://j2su0218.tistory.com/1495>Barracuda :: M-LSD(Line Segment Detection)</a></br><a href=https://j2su0218.tistory.com/1494>Barracuda :: SelfieBarracuda</a></br><a href=https://j2su0218.tistory.com/1493>Barracuda :: BodyPix</a></br><a href=https://j2su0218.tistory.com/1492>Barracuda :: Waifu2xBarracuda</a></br>
