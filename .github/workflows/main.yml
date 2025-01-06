@@ -18,6 +18,10 @@ jobs:
         run: npm ci
       - name: Update README
         run: npm start
+      - name: Debug Git Status
+        run: |
+          git status
+          git config --list
       - name: Commit README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -30,4 +34,3 @@ jobs:
             git push origin main
           else
             echo "No changes to commit."
-          fi
