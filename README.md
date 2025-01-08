@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1499>Barracuda :: BlazePalm /HandLandmark/ HandPose</a></br><a href=https://j2su0218.tistory.com/1498>Barracuda :: Landmark - MediaPipe Face Landmark /  Iris Landmark</a></br><a href=https://j2su0218.tistory.com/1497>Barracuda :: FaceDetection - UltraFace / BlazeFace</a></br><a href=https://j2su0218.tistory.com/1496>Barracuda :: Yolo v4 tiny/ Yolo v2 tiny</a></br><a href=https://j2su0218.tistory.com/1495>Barracuda :: M-LSD(Line Segment Detection)</a></br>
+<a href=https://j2su0218.tistory.com/1500>Unity 6의 빌드프로파일 소개</a></br><a href=https://j2su0218.tistory.com/1499>Barracuda :: BlazePalm /HandLandmark/ HandPose</a></br><a href=https://j2su0218.tistory.com/1498>Barracuda :: Landmark - MediaPipe Face Landmark /  Iris Landmark</a></br><a href=https://j2su0218.tistory.com/1497>Barracuda :: FaceDetection - UltraFace / BlazeFace</a></br><a href=https://j2su0218.tistory.com/1496>Barracuda :: Yolo v4 tiny/ Yolo v2 tiny</a></br>
