@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1509>Unity .gitignore 파일 생성 및 동작이 안되는 경우</a></br><a href=https://j2su0218.tistory.com/1507>MR Multiplayer Template 무작정 따라하기 (4) -  Game Mode Manager 오브젝트  설정 - END</a></br><a href=https://j2su0218.tistory.com/1505>MR Multiplayer Template 무작정 따라하기 (3) - 프리팹 구성, UI 레이아웃, 상호작용 기능 등 이해</a></br><a href=https://j2su0218.tistory.com/1504>구글 캘린더에서 사용할 수 있는 기본 단축키 목록</a></br><a href=https://j2su0218.tistory.com/1503>Unity MR Multiplayer Template 무작정 따라하기 (2) - Player Setup</a></br>
+<a href=https://j2su0218.tistory.com/1510>유니티 TextMeshPro Text UI 안보이는 경우</a></br><a href=https://j2su0218.tistory.com/1509>Unity .gitignore 파일 생성 및 동작이 안되는 경우</a></br><a href=https://j2su0218.tistory.com/1507>MR Multiplayer Template 무작정 따라하기 (4) -  Game Mode Manager 오브젝트  설정 - END</a></br><a href=https://j2su0218.tistory.com/1505>MR Multiplayer Template 무작정 따라하기 (3) - 프리팹 구성, UI 레이아웃, 상호작용 기능 등 이해</a></br><a href=https://j2su0218.tistory.com/1504>구글 캘린더에서 사용할 수 있는 기본 단축키 목록</a></br>
