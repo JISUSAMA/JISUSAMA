@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1511>Unity의 TextMeshPro 컴포넌트의 Inspector 설정</a></br><a href=https://j2su0218.tistory.com/1510>유니티 TextMeshPro Text UI 안보이는 경우</a></br><a href=https://j2su0218.tistory.com/1509>Unity .gitignore 파일 생성 및 동작이 안되는 경우</a></br><a href=https://j2su0218.tistory.com/1507>MR Multiplayer Template 무작정 따라하기 (4) -  Game Mode Manager 오브젝트  설정 - END</a></br><a href=https://j2su0218.tistory.com/1505>MR Multiplayer Template 무작정 따라하기 (3) - 프리팹 구성, UI 레이아웃, 상호작용 기능 등 이해</a></br>
+<a href=https://j2su0218.tistory.com/1512>맥에서 실행 앱 같은 프로그램  여러 번 여는 방법</a></br><a href=https://j2su0218.tistory.com/1511>Unity의 TextMeshPro 컴포넌트의 Inspector 설정</a></br><a href=https://j2su0218.tistory.com/1510>유니티 TextMeshPro Text UI 안보이는 경우</a></br><a href=https://j2su0218.tistory.com/1509>Unity .gitignore 파일 생성 및 동작이 안되는 경우</a></br><a href=https://j2su0218.tistory.com/1507>MR Multiplayer Template 무작정 따라하기 (4) -  Game Mode Manager 오브젝트  설정 - END</a></br>
