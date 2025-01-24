@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1516>인텔리제이 단축키 :: 맥OS</a></br><a href=https://j2su0218.tistory.com/1515>디지털 트윈(Digital Twin)이란?</a></br><a href=https://j2su0218.tistory.com/1514>텍스트 메쉬 프로(Text Mesh Pro) :: (경고)유니코드 값이 \\u3134인 문자는 글꼴 자산이나 잠재적인 폴백에서 찾을 수 없습니다.</a></br><a href=https://j2su0218.tistory.com/1513>화면 비율 해상도 목록(4:3/16:9/21:9/1:1)</a></br><a href=https://j2su0218.tistory.com/1512>맥에서 실행 앱 같은 프로그램  여러 번 여는 방법</a></br>
+<a href=https://j2su0218.tistory.com/1518>[SpringBoot] Spring Boot를 사용해 REST API 만들기(1)</a></br><a href=https://j2su0218.tistory.com/1516>인텔리제이 단축키 :: 맥OS</a></br><a href=https://j2su0218.tistory.com/1515>디지털 트윈(Digital Twin)이란?</a></br><a href=https://j2su0218.tistory.com/1514>텍스트 메쉬 프로(Text Mesh Pro) :: (경고)유니코드 값이 \\u3134인 문자는 글꼴 자산이나 잠재적인 폴백에서 찾을 수 없습니다.</a></br><a href=https://j2su0218.tistory.com/1513>화면 비율 해상도 목록(4:3/16:9/21:9/1:1)</a></br>
