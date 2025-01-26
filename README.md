@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1520>티스토리 사이드바 GitHub Contribution 잔디 위젯 등록하기</a></br><a href=https://j2su0218.tistory.com/1518>[SpringBoot] Spring Boot를 사용해 REST API 만들기(1)</a></br><a href=https://j2su0218.tistory.com/1516>인텔리제이 단축키 :: 맥OS</a></br><a href=https://j2su0218.tistory.com/1515>디지털 트윈(Digital Twin)이란?</a></br><a href=https://j2su0218.tistory.com/1514>텍스트 메쉬 프로(Text Mesh Pro) :: (경고)유니코드 값이 \\u3134인 문자는 글꼴 자산이나 잠재적인 폴백에서 찾을 수 없습니다.</a></br>
+<a href=https://j2su0218.tistory.com/1519>유니티 6 에서의 웹 플랫폼 지원 현황</a></br><a href=https://j2su0218.tistory.com/1520>티스토리 사이드바 GitHub Contribution 잔디 위젯 등록하기</a></br><a href=https://j2su0218.tistory.com/1518>[SpringBoot] Spring Boot를 사용해 REST API 만들기(1)</a></br><a href=https://j2su0218.tistory.com/1516>인텔리제이 단축키 :: 맥OS</a></br><a href=https://j2su0218.tistory.com/1515>디지털 트윈(Digital Twin)이란?</a></br>
