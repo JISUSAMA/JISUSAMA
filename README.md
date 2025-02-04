@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1555>[UNITY]ScriptableObject 소개 강의, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1526>모바일 화면비율 및 해상도 모음</a></br><a href=https://j2su0218.tistory.com/1525>RunToTheMoon - 세부기획안, 맵 무드 디자인</a></br><a href=https://j2su0218.tistory.com/1524>ListenJB-설문조사앱 초안</a></br><a href=https://j2su0218.tistory.com/1523>브레인 핏 - UX/UI</a></br>
+<a href=https://j2su0218.tistory.com/1556>[UNITY]Unity 6로 멀티플레이어 게임 제작 가속화, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1555>[UNITY]ScriptableObject 소개 강의, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1526>모바일 화면비율 및 해상도 모음</a></br><a href=https://j2su0218.tistory.com/1525>RunToTheMoon - 세부기획안, 맵 무드 디자인</a></br><a href=https://j2su0218.tistory.com/1524>ListenJB-설문조사앱 초안</a></br>
