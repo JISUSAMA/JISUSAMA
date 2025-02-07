@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1557>[UNITY]LiveOps 베스트 프랙티스로 멀티플레이어 게임 수명 연장, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1556>[UNITY]Unity 6로 멀티플레이어 게임 제작 가속화, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1555>[UNITY]ScriptableObject 소개 강의, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1526>모바일 화면비율 및 해상도 모음</a></br><a href=https://j2su0218.tistory.com/1525>RunToTheMoon - 세부기획안, 맵 무드 디자인</a></br>
+<a href=https://j2su0218.tistory.com/1558>[UNITY] Unity Multiplayer에 대한 모든 것 :: 데이터 중심 대규모 멀티플레이어 게임 개발하기, 요약정리</a></br><a href=https://j2su0218.tistory.com/1557>[UNITY]LiveOps 베스트 프랙티스로 멀티플레이어 게임 수명 연장, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1556>[UNITY]Unity 6로 멀티플레이어 게임 제작 가속화, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1555>[UNITY]ScriptableObject 소개 강의, 요약 정리</a></br><a href=https://j2su0218.tistory.com/1526>모바일 화면비율 및 해상도 모음</a></br>
