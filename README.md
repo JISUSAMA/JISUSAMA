@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1566>[UNITY :: ERROR] 파일 이동시 액세스 거부 문제</a></br><a href=https://j2su0218.tistory.com/1565>Leia Inc ::  LeiaDisplay 클래스</a></br><a href=https://j2su0218.tistory.com/1564>OnValidate() 함수란?</a></br><a href=https://j2su0218.tistory.com/1563>알쓸유잡 : 깔끔한 코드 작성을 위한 스타일 가이드, 요약정리</a></br><a href=https://j2su0218.tistory.com/1562>[UNITY]유니티 TIPS::여러 정보를 하나로 패킹하여 전달하는 Command 패턴 | 프로그래밍 디자인패턴, 요약정리</a></br>
+<a href=https://j2su0218.tistory.com/1567>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 1부</a></br><a href=https://j2su0218.tistory.com/1566>[UNITY :: ERROR] 파일 이동시 액세스 거부 문제</a></br><a href=https://j2su0218.tistory.com/1565>Leia Inc ::  LeiaDisplay 클래스</a></br><a href=https://j2su0218.tistory.com/1564>OnValidate() 함수란?</a></br><a href=https://j2su0218.tistory.com/1563>알쓸유잡 : 깔끔한 코드 작성을 위한 스타일 가이드, 요약정리</a></br>
