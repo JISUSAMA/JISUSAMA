@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1568>이미지 생성 AI 추천 리스트</a></br><a href=https://j2su0218.tistory.com/1567>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 1부</a></br><a href=https://j2su0218.tistory.com/1566>[UNITY :: ERROR] 파일 이동시 액세스 거부 문제</a></br><a href=https://j2su0218.tistory.com/1565>Leia Inc ::  LeiaDisplay 클래스</a></br><a href=https://j2su0218.tistory.com/1564>OnValidate() 함수란?</a></br>
+<a href=https://j2su0218.tistory.com/1569>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 2부</a></br><a href=https://j2su0218.tistory.com/1568>이미지 생성 AI 추천 리스트</a></br><a href=https://j2su0218.tistory.com/1567>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 1부</a></br><a href=https://j2su0218.tistory.com/1566>[UNITY :: ERROR] 파일 이동시 액세스 거부 문제</a></br><a href=https://j2su0218.tistory.com/1565>Leia Inc ::  LeiaDisplay 클래스</a></br>
