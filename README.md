@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1571>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 4부</a></br><a href=https://j2su0218.tistory.com/1570>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 3부</a></br><a href=https://j2su0218.tistory.com/1569>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 2부</a></br><a href=https://j2su0218.tistory.com/1568>이미지 생성 AI 추천 리스트</a></br><a href=https://j2su0218.tistory.com/1567>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 1부</a></br>
+<a href=https://j2su0218.tistory.com/1572>[LumePad2] LeiaSR&trade; Unity 플러그인 가이드(1)</a></br><a href=https://j2su0218.tistory.com/1571>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 4부</a></br><a href=https://j2su0218.tistory.com/1570>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 3부</a></br><a href=https://j2su0218.tistory.com/1569>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 2부</a></br><a href=https://j2su0218.tistory.com/1568>이미지 생성 AI 추천 리스트</a></br>
