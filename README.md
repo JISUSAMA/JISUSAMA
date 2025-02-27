@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1626>[유니티 TIPS] 객체지향의 기본기 Strategy 패턴 | 프로그래밍 디자인패턴</a></br><a href=https://j2su0218.tistory.com/1625>[유니티 TIPS] 어디에서나 사용하는 DirtyFlag 패턴 | 프로그래밍 디자인패턴</a></br><a href=https://j2su0218.tistory.com/1572>[LumePad2] LeiaSR&trade; Unity 플러그인 가이드(1)</a></br><a href=https://j2su0218.tistory.com/1571>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 4부</a></br><a href=https://j2su0218.tistory.com/1570>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 3부</a></br>
+<a href=https://j2su0218.tistory.com/1627>[유니티 TIPS] 객체 생성을 위한 Factory 패턴 | 프로그래밍 디자인패턴</a></br><a href=https://j2su0218.tistory.com/1626>[유니티 TIPS] 객체지향의 기본기 Strategy 패턴 | 프로그래밍 디자인패턴</a></br><a href=https://j2su0218.tistory.com/1625>[유니티 TIPS] 어디에서나 사용하는 DirtyFlag 패턴 | 프로그래밍 디자인패턴</a></br><a href=https://j2su0218.tistory.com/1572>[LumePad2] LeiaSR&trade; Unity 플러그인 가이드(1)</a></br><a href=https://j2su0218.tistory.com/1571>[UNITY]알쓸유잡 : 프로그래밍 디자인패턴 4부</a></br>
