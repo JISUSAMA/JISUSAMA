@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1632>[유니티 TIPS] 2D/3D 게임 최적화를 위한 Frame Debugger 활용법 , 요약정리</a></br><a href=https://j2su0218.tistory.com/1631>[유니티 TIPS] 유일무이한 객체 인스턴스가 필요하다면? Singleton 패턴 | 프로그래밍 디자인패턴, 요약정</a></br><a href=https://j2su0218.tistory.com/1630>[UNITY:TIP]많은 이미지를 사용하면서도 빌드 용량은 줄이는 법,요약정리</a></br><a href=https://j2su0218.tistory.com/1628>유니티 빛 그 자체, 요약정리</a></br><a href=https://j2su0218.tistory.com/1627>[유니티 TIPS] 객체 생성을 위한 Factory 패턴 | 프로그래밍 디자인패턴</a></br>
+<a href=https://j2su0218.tistory.com/1635>초보자를 위한 에셋번들 - 개념 설명 및 기본 구현, 요약정</a></br><a href=https://j2su0218.tistory.com/1632>[유니티 TIPS] 2D/3D 게임 최적화를 위한 Frame Debugger 활용법 , 요약정리</a></br><a href=https://j2su0218.tistory.com/1631>[유니티 TIPS] 유일무이한 객체 인스턴스가 필요하다면? Singleton 패턴 | 프로그래밍 디자인패턴, 요약정</a></br><a href=https://j2su0218.tistory.com/1630>[UNITY:TIP]많은 이미지를 사용하면서도 빌드 용량은 줄이는 법,요약정리</a></br><a href=https://j2su0218.tistory.com/1628>유니티 빛 그 자체, 요약정리</a></br>
