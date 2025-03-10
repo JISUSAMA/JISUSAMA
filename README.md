@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1637>[UNITY] 인스펙터에서 깔끔하고 직관적인 UI</a></br><a href=https://j2su0218.tistory.com/1636>[UNITY:ISSUE] UI Plane 클릭 안되는 경우</a></br><a href=https://j2su0218.tistory.com/1634>Cinemachine Camera와 Cinemachine Component의 차이점</a></br><a href=https://j2su0218.tistory.com/1633>더욱 편리한 카메라워킹 패키지 유니티6의 시네머신3 소개 , 요약정리</a></br><a href=https://j2su0218.tistory.com/1635>초보자를 위한 에셋번들 - 개념 설명 및 기본 구현, 요약정</a></br>
+<a href=https://j2su0218.tistory.com/1638>[UNITY] 간단한 CoroutineRunner 만들기</a></br><a href=https://j2su0218.tistory.com/1637>[UNITY] 인스펙터에서 깔끔하고 직관적인 UI</a></br><a href=https://j2su0218.tistory.com/1636>[UNITY:ISSUE] UI Plane 클릭 안되는 경우</a></br><a href=https://j2su0218.tistory.com/1634>Cinemachine Camera와 Cinemachine Component의 차이점</a></br><a href=https://j2su0218.tistory.com/1633>더욱 편리한 카메라워킹 패키지 유니티6의 시네머신3 소개 , 요약정리</a></br>
