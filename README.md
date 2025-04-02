@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1639>[UNITY] 간단한 크로마키 셰이더 코드</a></br><a href=https://j2su0218.tistory.com/1638>[UNITY] 간단한 CoroutineRunner 만들기</a></br><a href=https://j2su0218.tistory.com/1637>[UNITY] 인스펙터에서 깔끔하고 직관적인 UI</a></br><a href=https://j2su0218.tistory.com/1636>[UNITY:ISSUE] UI Plane 클릭 안되는 경우</a></br><a href=https://j2su0218.tistory.com/1634>Cinemachine Camera와 Cinemachine Component의 차이점</a></br>
+<a href=https://j2su0218.tistory.com/1641>[UNITY] 클로저(Closure)란?</a></br><a href=https://j2su0218.tistory.com/1639>[UNITY] 간단한 크로마키 셰이더 코드</a></br><a href=https://j2su0218.tistory.com/1638>[UNITY] 간단한 CoroutineRunner 만들기</a></br><a href=https://j2su0218.tistory.com/1637>[UNITY] 인스펙터에서 깔끔하고 직관적인 UI</a></br><a href=https://j2su0218.tistory.com/1636>[UNITY:ISSUE] UI Plane 클릭 안되는 경우</a></br>
