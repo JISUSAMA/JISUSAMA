@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1650>Unity의 Occlusion Culling(오클루전 컬링)</a></br><a href=https://j2su0218.tistory.com/1648>[Android] APK+ 파일 실행하기</a></br><a href=https://j2su0218.tistory.com/1647>Unity URP에서 블러 처리하기 &ndash; 포스트 프로세싱 완전 정복</a></br><a href=https://j2su0218.tistory.com/1646>포스트 프로세싱이란? &ndash; 게임과 콘텐츠를 더 생생하게 만드는 마법</a></br><a href=https://j2su0218.tistory.com/1645>Unity Animator 완전 정복 &ndash; 애니메이션을 컨트롤하는 가장 확실한 방법</a></br>
+<a href=https://j2su0218.tistory.com/1651>AI 리서치 작업 TOOL 종류</a></br><a href=https://j2su0218.tistory.com/1650>Unity의 Occlusion Culling(오클루전 컬링)</a></br><a href=https://j2su0218.tistory.com/1648>[Android] APK+ 파일 실행하기</a></br><a href=https://j2su0218.tistory.com/1647>Unity URP에서 블러 처리하기 &ndash; 포스트 프로세싱 완전 정복</a></br><a href=https://j2su0218.tistory.com/1646>포스트 프로세싱이란? &ndash; 게임과 콘텐츠를 더 생생하게 만드는 마법</a></br>
