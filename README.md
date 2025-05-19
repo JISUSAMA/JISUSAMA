@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1652>  2025년 최신 이미지 생성 AI 툴 총정리!</a></br><a href=https://j2su0218.tistory.com/1653>  2025년 최신 동영상 생성 AI 툴 8종 총정리</a></br><a href=https://j2su0218.tistory.com/1651>AI 리서치 작업 TOOL 종류</a></br><a href=https://j2su0218.tistory.com/1650>Unity의 Occlusion Culling(오클루전 컬링)</a></br><a href=https://j2su0218.tistory.com/1648>[Android] APK+ 파일 실행하기</a></br>
+<a href=https://j2su0218.tistory.com/1655>UNITY :: Debug클래스 래핑 매크로 코드</a></br><a href=https://j2su0218.tistory.com/1652>  2025년 최신 이미지 생성 AI 툴 총정리!</a></br><a href=https://j2su0218.tistory.com/1653>  2025년 최신 동영상 생성 AI 툴 8종 총정리</a></br><a href=https://j2su0218.tistory.com/1651>AI 리서치 작업 TOOL 종류</a></br><a href=https://j2su0218.tistory.com/1650>Unity의 Occlusion Culling(오클루전 컬링)</a></br>
