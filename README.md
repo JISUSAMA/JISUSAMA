@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1658>UNITY3D : 데이터 시리얼라이제이션 - Serialization 직렬화</a></br><a href=https://j2su0218.tistory.com/1657>유니티 JSON 저장과 불러오기</a></br><a href=https://j2su0218.tistory.com/1656>UNITY3D :: 유니티에서 디스코드 웹훅을 사용하여 메세지 보내기</a></br><a href=https://j2su0218.tistory.com/1655>UNITY :: Debug클래스 래핑 매크로 코드</a></br><a href=https://j2su0218.tistory.com/1652>  2025년 최신 이미지 생성 AI 툴 총정리!</a></br>
+<a href=https://j2su0218.tistory.com/1659>Unity에서 ScriptableObject 제대로 쓰기</a></br><a href=https://j2su0218.tistory.com/1658>UNITY3D : 데이터 시리얼라이제이션 - Serialization 직렬화</a></br><a href=https://j2su0218.tistory.com/1657>유니티 JSON 저장과 불러오기</a></br><a href=https://j2su0218.tistory.com/1656>UNITY3D :: 유니티에서 디스코드 웹훅을 사용하여 메세지 보내기</a></br><a href=https://j2su0218.tistory.com/1655>UNITY :: Debug클래스 래핑 매크로 코드</a></br>
