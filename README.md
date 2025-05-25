@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1660>Unity에서 실용적인 리팩토링 팁 &amp; 예시</a></br><a href=https://j2su0218.tistory.com/1659>Unity에서 ScriptableObject 제대로 쓰기</a></br><a href=https://j2su0218.tistory.com/1658>UNITY3D : 데이터 시리얼라이제이션 - Serialization 직렬화</a></br><a href=https://j2su0218.tistory.com/1657>유니티 JSON 저장과 불러오기</a></br><a href=https://j2su0218.tistory.com/1656>UNITY3D :: 유니티에서 디스코드 웹훅을 사용하여 메세지 보내기</a></br>
+<a href=https://j2su0218.tistory.com/1661>  간헐적 단식 앱 개발 진행 계획 (Unity 기반)</a></br><a href=https://j2su0218.tistory.com/1660>Unity에서 실용적인 리팩토링 팁 &amp; 예시</a></br><a href=https://j2su0218.tistory.com/1659>Unity에서 ScriptableObject 제대로 쓰기</a></br><a href=https://j2su0218.tistory.com/1658>UNITY3D : 데이터 시리얼라이제이션 - Serialization 직렬화</a></br><a href=https://j2su0218.tistory.com/1657>유니티 JSON 저장과 불러오기</a></br>
