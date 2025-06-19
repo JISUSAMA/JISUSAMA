@@ -20,7 +20,7 @@ jobs:
       - name: Create labels using GitHub API
         run: |
           LABELS_FILE=".github/labels.json"
-          for row in $(jq -c '.[]' "$LABELS_FILE"); do
+          jq -c '.[]' "$LABELS_FILE" | while read -r row; do
             name=$(echo "$row" | jq -r '.name')
             color=$(echo "$row" | jq -r '.color')
             description=$(echo "$row" | jq -r '.description')
@@ -32,3 +32,4 @@ jobs:
               -d "{\"name\":\"$name\", \"color\":\"$color\", \"description\":\"$description\"}" \
               | jq '.name' || echo "⚠️ Failed to create $name"
           done
+
