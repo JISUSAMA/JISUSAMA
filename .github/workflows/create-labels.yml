@@ -2,9 +2,9 @@ name: Create GitHub Labels
 
 on:
   workflow_dispatch: # 수동 실행 가능
-  push:
-    paths:
-      - .github/labels.json # 라벨 설정 파일 변경 시 자동 실행
+  # push:
+  #   paths:
+  #     - .github/labels.json # 라벨 설정 파일 변경 시 자동 실행
 
 permissions:
   contents: write # GITHUB_TOKEN에 라벨 생성 권한 부여
