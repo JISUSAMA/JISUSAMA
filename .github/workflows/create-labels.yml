@@ -4,7 +4,10 @@ on:
   workflow_dispatch: # 수동 실행 가능
   push:
     paths:
-      - .github/labels.json # 이 파일이 변경될 때 자동 실행
+      - .github/labels.json # 라벨 설정 파일 변경 시 자동 실행
+
+permissions:
+  contents: write # GITHUB_TOKEN에 라벨 생성 권한 부여
 
 jobs:
   create-labels:
@@ -21,7 +24,6 @@ jobs:
         run: |
           LABELS_FILE=".github/labels.json"
 
-          # 디버깅 시작
           echo "📦 Loading labels from $LABELS_FILE..."
           cat "$LABELS_FILE"
 
@@ -38,13 +40,13 @@ jobs:
               https://api.github.com/repos/${{ github.repository }}/labels \
               -d "{\"name\":\"$name\", \"color\":\"$color\", \"description\":\"$description\"}")
 
-            echo "🔍 Response from GitHub:"
+            echo "🔍 GitHub API Response:"
             echo "$response"
 
             created=$(echo "$response" | jq -r '.name')
             if [[ "$created" == "null" ]]; then
-              echo "❌ Failed to create: $name"
+              echo "❌ Failed to create label: $name"
             else
-              echo "✅ Created: $created"
+              echo "✅ Successfully created: $created"
             fi
           done
