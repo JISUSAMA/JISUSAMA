@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # 수동 실행 가능
   push:
     paths:
-      - .github/labels.json # labels.json이 변경되었을 때 자동 실행
+      - .github/labels.json
 
 jobs:
   create-labels:
@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
 
       - name: Create labels using GitHub API
         run: |
@@ -27,5 +30,5 @@ jobs:
               -H "Accept: application/vnd.github+json" \
               https://api.github.com/repos/${{ github.repository }}/labels \
               -d "{\"name\":\"$name\", \"color\":\"$color\", \"description\":\"$description\"}" \
-              | jq '.name' || echo "Failed to create $name"
+              | jq '.name' || echo "⚠️ Failed to create $name"
           done
