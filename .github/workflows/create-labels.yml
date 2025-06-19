@@ -1,13 +1,10 @@
 name: Create GitHub Labels
 
 on:
-  workflow_dispatch: # 수동 실행 가능
-  # push:
-  #   paths:
-  #     - .github/labels.json # 라벨 설정 파일 변경 시 자동 실행
-
-permissions:
-  contents: write # GITHUB_TOKEN에 라벨 생성 권한 부여
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/labels.json
 
 jobs:
   create-labels:
@@ -20,10 +17,11 @@ jobs:
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Create labels using GitHub API
+      - name: Create labels using GitHub API with PAT
+        env:
+          GH_PAT: ${{ secrets.MY_PAT }}  # 👈 저장소 secret에 등록해야 함
         run: |
           LABELS_FILE=".github/labels.json"
-
           echo "📦 Loading labels from $LABELS_FILE..."
           cat "$LABELS_FILE"
 
@@ -35,7 +33,7 @@ jobs:
             echo "👉 Creating: $name / $color / $description"
 
             response=$(curl -s -X POST \
-              -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Authorization: Bearer $GH_PAT" \
               -H "Accept: application/vnd.github+json" \
               https://api.github.com/repos/${{ github.repository }}/labels \
               -d "{\"name\":\"$name\", \"color\":\"$color\", \"description\":\"$description\"}")
