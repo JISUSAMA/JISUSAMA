@@ -4,7 +4,7 @@ on:
   workflow_dispatch: # 수동 실행 가능
   push:
     paths:
-      - .github/labels.json
+      - .github/labels.json # 이 파일이 변경될 때 자동 실행
 
 jobs:
   create-labels:
@@ -20,16 +20,31 @@ jobs:
       - name: Create labels using GitHub API
         run: |
           LABELS_FILE=".github/labels.json"
+
+          # 디버깅 시작
+          echo "📦 Loading labels from $LABELS_FILE..."
+          cat "$LABELS_FILE"
+
           jq -c '.[]' "$LABELS_FILE" | while read -r row; do
             name=$(echo "$row" | jq -r '.name')
             color=$(echo "$row" | jq -r '.color')
             description=$(echo "$row" | jq -r '.description')
 
-            curl -s -X POST \
+            echo "👉 Creating: $name / $color / $description"
+
+            response=$(curl -s -X POST \
               -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
               -H "Accept: application/vnd.github+json" \
               https://api.github.com/repos/${{ github.repository }}/labels \
-              -d "{\"name\":\"$name\", \"color\":\"$color\", \"description\":\"$description\"}" \
-              | jq '.name' || echo "⚠️ Failed to create $name"
-          done
+              -d "{\"name\":\"$name\", \"color\":\"$color\", \"description\":\"$description\"}")
 
+            echo "🔍 Response from GitHub:"
+            echo "$response"
+
+            created=$(echo "$response" | jq -r '.name')
+            if [[ "$created" == "null" ]]; then
+              echo "❌ Failed to create: $name"
+            else
+              echo "✅ Created: $created"
+            fi
+          done
