@@ -105,4 +105,4 @@
 
 ## 📕 Latest Blog Posts
 
-<a href=https://j2su0218.tistory.com/1695>GitHub Actions로 라벨 자동 등록하기 및 라벨들 적용</a></br><a href=https://j2su0218.tistory.com/1694>[UNTIY]Unity ScrollView 정복하기 &ndash; 콘텐츠가 자동으로 늘어나는 구조 만들기</a></br><a href=https://j2su0218.tistory.com/1693>[UNITY::북마크]하이어라키상(hierarchy)의 선택한 오브젝트를 제외한 오브젝트 모두 끄기</a></br><a href=https://j2su0218.tistory.com/1692>[UNITY::북마]하이어라키상(hierarchy)의 오브젝트들의 이름을 한번에 변경</a></br><a href=https://j2su0218.tistory.com/1662>공복 타이머 기능 구현</a></br>
+<a href=https://j2su0218.tistory.com/1696>Unity 참조 검색 툴 AssetUsageDetector 사용법 (씬, 머티리얼, 프리팹 추적)</a></br><a href=https://j2su0218.tistory.com/1695>GitHub Actions로 라벨 자동 등록하기 및 라벨들 적용</a></br><a href=https://j2su0218.tistory.com/1694>[UNTIY]Unity ScrollView 정복하기 &ndash; 콘텐츠가 자동으로 늘어나는 구조 만들기</a></br><a href=https://j2su0218.tistory.com/1693>[UNITY::북마크]하이어라키상(hierarchy)의 선택한 오브젝트를 제외한 오브젝트 모두 끄기</a></br><a href=https://j2su0218.tistory.com/1692>[UNITY::북마]하이어라키상(hierarchy)의 오브젝트들의 이름을 한번에 변경</a></br>
