@@ -28,7 +28,7 @@ jobs:
         run: |
           git add .
           git config --local user.email "j2su0218@gmail.com"
-          git config --local user.name "JISUSAMA"
+          git config --local user.name "BUGISU"
           if ! git diff --cached --quiet; then
             git commit -m "Update README.md"
             git push origin main
