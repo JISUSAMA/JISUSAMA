@@ -1,5 +1,5 @@
 {
-  "name": "jisusama",
+  "name": "BUGISU",
   "version": "1.0.0",
   "description": "<div align=center>\r \t<img src=\"https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JISUSAMA%20Github!&fontSize=90\" />\t\r </div>\r <div align=center>\r \t<h3>📚 Tech Stack 📚</h3>\r \t<p>✨ Platforms & Languages ✨</p>\r </div>\r <div align=\"center\">\r \t<img src=\"https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white\" />\r \t<img src=\"https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white\" />\r \t<img src=\"https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white\" />\r </div>\r <br>\r <div align=center>\r \t<p>🛠 Tools 🛠</p>\r </div>\r <div align=center>\r \t<img src=\"https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white\" />\r \t<img src=\"https://img.shields.io/badge/Unity%203D-2C2255?style=flat&logo=EclipseIDE&logoColor=white\" />\r \t<img src=\"https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white\" />\r \t<br>",
   "main": "readmeUpdate.js",
@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jisusama": "file:",
+    "BUGISU": "file:",
     "rss-parser": "^3.13.0"
   }
 }
