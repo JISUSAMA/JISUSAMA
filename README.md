@@ -32,7 +32,7 @@
 <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-<a href="https://github.com/JISUSAMA/JISUSAMA/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
+<a href="https://github.com/BUGISU/JISUSAMA/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
     <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 </a>
 <a href="https://j2su0218.tistory.com">
@@ -47,61 +47,61 @@
 <h3>📚 Portfolio Project Sources Link 📚</h3>
 <h3>Front/Backend Projects</h3>
 <h4>📁 SnapTide(CSR)</h4>
-<a href="https://github.com/JISUSAMA/SnapTide">
+<a href="https://github.com/BUGISU/SnapTide">
   👉 SnapTide Frontend[React]
 </a><br>
-<a href="https://github.com/JISUSAMA/SnapTideAPI">
+<a href="https://github.com/BUGISU/SnapTideAPI">
   👉 SnapTide API Backend[Springboot]
 </a>
 <h4>📁 FilmCritiq(SSR)</h4>
-<a href="https://github.com/JISUSAMA/FilmCritiq">
+<a href="https://github.com/BUGISU/FilmCritiq">
   👉 FilmCritiq[Springboot]
 </a><br>
 <h4>📁 Team_ShakePot(CSR)</h4>
-<a href="https://github.com/JISUSAMA/Team_ShakePot">
+<a href="https://github.com/BUGISU/Team_ShakePot">
   👉 Team_ShakePot[Springboot/React]
 </a>
 <h3>Unity Projects</h3>
 <h4>📁 보자마자 PLAY 시리즈</h4>
-<a href="https://github.com/JISUSAMA/BojamajaPlay2_mobile">
+<a href="https://github.com/BUGISU/BojamajaPlay2_mobile">
   👉 보자마자 Play2 모바일 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/BojamajaPlay2_realmotion">
+<a href="https://github.com/BUGISU/BojamajaPlay2_realmotion">
   👉 보자마자 Play2 리얼모션 Portfolio
 </a>
 <h4>📁 보자마자 피트니스 시리즈</h4>
-<a href="https://github.com/JISUSAMA/BMF-Run.to.the.Moon">
+<a href="https://github.com/BUGISU/BMF-Run.to.the.Moon">
   👉 보자마자 피트니스 - 런 투더 문 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/BMF-CyclingTour">
+<a href="https://github.com/BUGISU/BMF-CyclingTour">
   👉 보자마자 피트니스 - 사이클링 투어 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/BMF-CityTourBusan">
+<a href="https://github.com/BUGISU/BMF-CityTourBusan">
   👉 보자마자 피트니스 - 시티투어 부산 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/BMF-AmazingCore">
+<a href="https://github.com/BUGISU/BMF-AmazingCore">
   👉 보자마자 피트니스 - 어메이징코어 Portfolio
 </a>
 <h4>📁 보자마자 케어 시리즈</h4>
-<a href="https://github.com/JISUSAMA/BMF-BojamajaCare">
+<a href="https://github.com/BUGISU/BMF-BojamajaCare">
   👉 보자마자 케어 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/BMF-BojamajaBrain">
+<a href="https://github.com/BUGISU/BMF-BojamajaBrain">
   👉 보자마자 브레인 Portfolio
 </a><br>
 <h4>📁 외주 프로젝트</h4>
-<a href="https://github.com/JISUSAMA/Bokcheon-dong">
+<a href="https://github.com/BUGISU/Bokcheon-dong">
   👉 복천 박물관 - 복둥이의 시간여행 Portfolio
 </a><br>
-<a href="https://github.com/JISUSAMA/JBListen">
+<a href="https://github.com/BUGISU/JBListen">
   👉 전북 - JB Listen Portfolio
 </a><br>
 </div>
 
 <div align=center>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JISUSAMA&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=JISUSAMA&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGISU&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=BUGISU&show_icons=true">
 
 ## 📕 Latest Blog Posts
 
