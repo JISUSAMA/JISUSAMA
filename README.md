@@ -32,7 +32,7 @@
 <p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-<a href="https://github.com/BUGISU/JISUSAMA/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
+<a href="https://github.com/BUGISU/BUGISU/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%B0%95%EC%A7%80%EC%88%98.pdf">
     <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 </a>
 <a href="https://j2su0218.tistory.com">
