@@ -38,22 +38,22 @@
 
 ### 💻 Full Stack Projects
 
-| Project | Links | Stack |
-|---------|-------|-------|
-| 🧭 **SnapTide (CSR)** | [Frontend – React](https://github.com/BUGISU/SnapTide)  ｜  [Backend – Spring Boot](https://github.com/BUGISU/SnapTideAPI) | React, Spring Boot |
-| 🎬 **FilmCritiq (SSR)** | [Spring Boot](https://github.com/BUGISU/FilmCritiq) | Spring Boot |
-| 🍹 **Team_ShakePot (CSR)** | [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot) | React, Spring Boot |
+| **Project** | **Links** | **Stack** |
+|:--:|:--|:--:|
+| 🧭 SnapTide (CSR) | [Frontend](https://github.com/BUGISU/SnapTide) ｜ [Backend](https://github.com/BUGISU/SnapTideAPI) | React, Spring Boot |
+| 🎬 FilmCritiq (SSR) | [Spring Boot](https://github.com/BUGISU/FilmCritiq) | Spring Boot |
+| 🍹 Team_ShakePot (CSR) | [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot) | React, Spring Boot |
 
 ---
 
 ### 🎮 Unity Series
 
-| Category | Projects |
-|----------|----------|
-| 🎮 **보자마자 PLAY** | [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion) |
-| 🏃 **보자마자 피트니스** | [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour) <br> [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore) |
-| 🧠 **보자마자 케어** | [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain) |
-| 🛠 **외주 프로젝트** | [복천박물관 – 복둥이의 시간여행](https://github.com/BUGISU/Bokcheon-dong) ｜ [JB Listen](https://github.com/BUGISU/JBListen) |
+| **Category** | **Projects** |
+|:--:|:--|
+| 🎮 보자마자 PLAY | [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion) |
+| 🏃 보자마자 피트니스 | [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour)<br>[시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore) |
+| 🧠 보자마자 케어 | [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain) |
+| 🛠 외주 프로젝트 | [복천박물관](https://github.com/BUGISU/Bokcheon-dong) ｜ [JB Listen](https://github.com/BUGISU/JBListen) |
 
 ---
 
