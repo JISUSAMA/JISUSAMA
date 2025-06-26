@@ -1,14 +1,4 @@
-// update-readme.ts
-import { writeFileSync } from "node:fs";
-import Parser from "rss-parser";
-
-/* ───────────────────── 설정값 ───────────────────── */
-const BLOG_RSS_URL = "https://j2su0218.tistory.com/rss";
-const BLOG_POST_LIMIT = 5;
-const GITHUB_USERNAME = "BUGISU";
-
-/* ───────────── README 고정 템플릿 (상단) ─────────── */
-const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
   <a href="https://github.com/BUGISU/BUGISU/blob/main/포트폴리오-박지수.pdf">
@@ -77,13 +67,3 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
   <img src="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${GITHUB_USERNAME}&layout=compact" height="150" />
 </p>
-`;
-
-/* ───────────── 메인 실행 ───────────── */
-(async () => {
-  const blogSection = await buildBlogSection();
-  const readme = `${fixedHeader}\n${blogSection}\n${githubStats}`;
-
-  writeFileSync("README.md", readme, "utf8");
-  console.log("✅ README.md 업데이트 완료!");
-})();
