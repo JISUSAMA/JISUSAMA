@@ -1,10 +1,14 @@
+// update-readme.ts
 import { writeFileSync } from "node:fs";
 import Parser from "rss-parser";
 
-/* -------------------------------------------------------------------------- */
-/* 📄  README.md 고정 템플릿 (위·중간·아래 모두 포함)                           */
-/* -------------------------------------------------------------------------- */
-let text = `![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
+/* ───────────────────── 설정값 ───────────────────── */
+const BLOG_RSS_URL = "https://j2su0218.tistory.com/rss";
+const BLOG_POST_LIMIT = 5;
+const GITHUB_USERNAME = "BUGISU";
+
+/* ───────────── README 고정 템플릿 (상단) ─────────── */
+const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
   <a href="https://github.com/BUGISU/BUGISU/blob/main/포트폴리오-박지수.pdf">
@@ -39,76 +43,69 @@ let text = `![header](https://capsule-render.vercel.app/api?type=waving&color=au
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
 ---
+
 ## 🚀 Portfolio Projects
 
 ### 💻 Full Stack Projects
 
-- 🧭 **SnapTide (CSR)**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Frontend - React](https://github.com/BUGISU/SnapTide)  
-  &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Backend - Spring Boot](https://github.com/BUGISU/SnapTideAPI)
-
-- 🎬 **FilmCritiq (SSR)**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🔹 [Spring Boot](https://github.com/BUGISU/FilmCritiq)
-
-- 🍹 **Team_ShakePot (CSR)**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🔹 [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot)
+| Project | Links | Stack |
+|---------|-------|-------|
+| 🧭 **SnapTide (CSR)** | [Frontend – React](https://github.com/BUGISU/SnapTide)  ｜  [Backend – Spring Boot](https://github.com/BUGISU/SnapTideAPI) | React, Spring Boot |
+| 🎬 **FilmCritiq (SSR)** | [Spring Boot](https://github.com/BUGISU/FilmCritiq) | Spring Boot |
+| 🍹 **Team_ShakePot (CSR)** | [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot) | React, Spring Boot |
 
 ---
 
 ### 🎮 Unity Series
 
-- 🎮 **보자마자 PLAY 시리즈**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🎲 [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion)
-
-- 🏃 **보자마자 피트니스 시리즈**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🚴‍♂️ [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour)  
-  &nbsp;&nbsp;&nbsp;&nbsp;🚏 [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore)
-
-- 🧠 **보자마자 케어 시리즈**  
-  &nbsp;&nbsp;&nbsp;&nbsp;🧬 [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain)
-
-- 🛠 **외주 프로젝트**  
-  &nbsp;&nbsp;&nbsp;&nbsp;📌 [복천박물관 - 복둥이의 시간여행](https://github.com/BUGISU/Bokcheon-dong) ｜ [JB Listen](https://github.com/BUGISU/JBListen)
-
+| Category | Projects |
+|----------|----------|
+| 🎮 **보자마자 PLAY** | [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion) |
+| 🏃 **보자마자 피트니스** | [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour) <br> [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore) |
+| 🧠 **보자마자 케어** | [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain) |
+| 🛠 **외주 프로젝트** | [복천박물관 – 복둥이의 시간여행](https://github.com/BUGISU/Bokcheon-dong) ｜ [JB Listen](https://github.com/BUGISU/JBListen) |
 
 ---
 
 ## ✍️ Latest Blog Posts
-`; // ← 블로그 자리 비워둠
+`; // 👈 RSS 자리
 
-/* -------------------------------------------------------------------------- */
-/* 📰  RSS 파싱                                                                */
-/* -------------------------------------------------------------------------- */
-const parser = new Parser({
-  headers: { Accept: "application/rss+xml, application/xml, text/xml;q=0.9" },
-});
+/* ───────────── RSS → 최신 글 리스트 ───────────── */
+async function buildBlogSection(): Promise<string> {
+  const parser = new Parser();
+  const feed = await parser.parseURL(BLOG_RSS_URL);
 
-(async () => {
-  const feed = await parser.parseURL("https://j2su0218.tistory.com/rss");
+  return feed.items
+    .slice(0, BLOG_POST_LIMIT)
+    .map(({ title, link, pubDate }) => {
+      const date = new Date(pubDate!).toLocaleDateString("en-US", {
+        year: "numeric",
+        month: "short",
+        day: "2-digit",
+      });
+      return `- ${date} · [${title}](${link})`;
+    })
+    .join("\n");
+}
 
-  feed.items.slice(0, 5).forEach(({ title, link, pubDate }) => {
-    const formatted = new Date(pubDate!).toLocaleDateString("en-US", {
-      year: "numeric",
-      month: "short", // e.g., Jun
-      day: "2-digit",
-    });
-    text += `- ${formatted} · [${title}](${link})\n`;
-  });
-
-  /* GitHub Stats 섹션 이어붙이기 */
-  text += `
+/* ───────────── GitHub Stats 섹션 ───────────── */
+const githubStats = `
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BUGISU&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BUGISU&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=${GITHUB_USERNAME}&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${GITHUB_USERNAME}&layout=compact" height="150" />
 </p>
 `;
 
-  /* README.md 저장 */
-  writeFileSync("README.md", text, "utf8");
+/* ───────────── 메인 실행 ───────────── */
+(async () => {
+  const blogSection = await buildBlogSection();
+  const readme = `${fixedHeader}\n${blogSection}\n${githubStats}`;
+
+  writeFileSync("README.md", readme, "utf8");
   console.log("✅ README.md 업데이트 완료!");
 })();
