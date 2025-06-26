@@ -2,7 +2,9 @@ name: Readme Update
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"  # 매시 정각
+  workflow_dispatch:      # 👉 수동 실행 허용
+
 permissions:
   contents: write
 
@@ -34,4 +36,3 @@ jobs:
             git push origin main
           else
             echo "No changes to commit."
-          fi
