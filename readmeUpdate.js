@@ -1,16 +1,16 @@
 // update-readme.js
 // ------------------------------------------------------------
-// README.md 자동 갱신 스크립트 (Node.js 순수 JavaScript 버전)
+// README.md 자동 갱신 스크립트 (CommonJS 방식)
 // ------------------------------------------------------------
-import { writeFileSync } from "node:fs";
-import Parser from "rss-parser";
+const { writeFileSync } = require("node:fs");
+const Parser = require("rss-parser");
 
-/* ───────────── 설정값 ───────────── */
-const BLOG_RSS_URL   = "https://j2su0218.tistory.com/rss";
-const BLOG_POST_LIMIT = 5;            // 최신 글 개수
-const GITHUB_USERNAME = "BUGISU";     // GitHub Stats용
+// ───────────────────── 설정값 ─────────────────────
+const BLOG_RSS_URL = "https://j2su0218.tistory.com/rss";
+const BLOG_POST_LIMIT = 5;
+const GITHUB_USERNAME = "BUGISU";
 
-/* ───────────── 고정 템플릿: 헤더 + Tech + Portfolio ───────────── */
+// ───────────── 고정 템플릿: 헤더 + Tech + Portfolio ─────────────
 const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
@@ -71,27 +71,33 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 ---
 
 ## ✍️ Latest Blog Posts
-`; // ↑ 블로그 섹션은 스크립트로 삽입
+`;
 
-/* ───────────── RSS → 최신 글 리스트 생성 ───────────── */
+// ───────────────────── RSS → 최신 글 리스트 생성 ─────────────────────
 async function buildBlogSection() {
-  const parser = new Parser();
-  const feed   = await parser.parseURL(BLOG_RSS_URL);
+  const parser = new Parser({
+    headers: {
+      "User-Agent": "Mozilla/5.0 (GitHubActionsBot)",
+      Accept: "application/rss+xml, application/xml, text/xml; q=0.9",
+    },
+  });
+
+  const feed = await parser.parseURL(BLOG_RSS_URL);
 
   return feed.items
     .slice(0, BLOG_POST_LIMIT)
     .map(({ title, link, pubDate }) => {
       const date = new Date(pubDate).toLocaleDateString("en-US", {
-        year:  "numeric",
+        year: "numeric",
         month: "short",
-        day:   "2-digit",
+        day: "2-digit",
       });
       return `- ${date} · [${title}](${link})`;
     })
     .join("\n");
 }
 
-/* ───────────── GitHub Stats HTML ───────────── */
+// ───────────────────── GitHub Stats HTML ─────────────────────
 const githubStats = `
 
 ---
@@ -104,11 +110,11 @@ const githubStats = `
 </p>
 `;
 
-/* ───────────── 메인 실행 ───────────── */
+// ───────────────────── 실행 ─────────────────────
 (async () => {
   try {
     const blogSection = await buildBlogSection();
-    const readme      = `${fixedHeader}\n${blogSection}\n${githubStats}`;
+    const readme = `${fixedHeader}\n${blogSection}\n${githubStats}`;
 
     writeFileSync("README.md", readme, "utf8");
     console.log("✅ README.md 업데이트 완료!");
