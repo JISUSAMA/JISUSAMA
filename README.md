@@ -38,26 +38,82 @@
 
 ---
 
-## 🚀 Portfolio Projects
+<h3>💻 Full Stack Projects</h3>
 
-### 💻 Full Stack Projects
-
-|      **Project**       | **Links**                                                                                          |     **Stack**      |
-| :--------------------: | :------------------------------------------------------------------------------------------------- | :----------------: |
-|   🧭 SnapTide (CSR)    | [Frontend](https://github.com/BUGISU/SnapTide) ｜ [Backend](https://github.com/BUGISU/SnapTideAPI) | React, Spring Boot |
-|  🎬 FilmCritiq (SSR)   | [Spring Boot](https://github.com/BUGISU/FilmCritiq)                                                |    Spring Boot     |
-| 🍹 Team_ShakePot (CSR) | [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot)                                     | React, Spring Boot |
+<table width="100%" border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th align="center">Project</th>
+      <th align="left">Links</th>
+      <th align="center">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🧭 SnapTide (CSR)</td>
+      <td>
+        <a href="https://github.com/BUGISU/SnapTide">Frontend</a> ｜ 
+        <a href="https://github.com/BUGISU/SnapTideAPI">Backend</a>
+      </td>
+      <td align="center">React, Spring Boot</td>
+    </tr>
+    <tr>
+      <td align="center">🎬 FilmCritiq (SSR)</td>
+      <td><a href="https://github.com/BUGISU/FilmCritiq">Spring Boot</a></td>
+      <td align="center">Spring Boot</td>
+    </tr>
+    <tr>
+      <td align="center">🍹 Team_ShakePot (CSR)</td>
+      <td><a href="https://github.com/BUGISU/Team_ShakePot">React + Spring Boot</a></td>
+      <td align="center">React, Spring Boot</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-### 🎮 Unity Series
+<h3>🎮 Unity Series</h3>
 
-|     **Category**     | **Projects**                                                                                                                                                                                                                                           |
-| :------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   🎮 보자마자 PLAY   | [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion)                                                                                                                             |
-| 🏃 보자마자 피트니스 | [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour)<br>[시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore) |
-|   🧠 보자마자 케어   | [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain)                                                                                                                                            |
-|   🛠 외주 프로젝트    | [복천박물관](https://github.com/BUGISU/Bokcheon-dong) ｜ [JB Listen](https://github.com/BUGISU/JBListen)                                                                                                                                               |
+<table width="100%" border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <th align="center">Category</th>
+      <th align="left">Projects</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">🎮 보자마자 PLAY</td>
+      <td>
+        <a href="https://github.com/BUGISU/BojamajaPlay2_mobile">모바일</a> ｜ 
+        <a href="https://github.com/BUGISU/BojamajaPlay2_realmotion">리얼모션</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">🏃 보자마자 피트니스</td>
+      <td>
+        <a href="https://github.com/BUGISU/BMF-Run.to.the.Moon">런 투더 문</a> ｜ 
+        <a href="https://github.com/BUGISU/BMF-CyclingTour">사이클링 투어</a> ｜ 
+        <a href="https://github.com/BUGISU/BMF-CityTourBusan">시티투어 부산</a> ｜ 
+        <a href="https://github.com/BUGISU/BMF-AmazingCore">어메이징코어</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">🧠 보자마자 케어</td>
+      <td>
+        <a href="https://github.com/BUGISU/BMF-BojamajaCare">케어</a> ｜ 
+        <a href="https://github.com/BUGISU/BMF-BojamajaBrain">브레인</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">🛠 외주 프로젝트</td>
+      <td>
+        <a href="https://github.com/BUGISU/Bokcheon-dong">복천박물관</a> ｜ 
+        <a href="https://github.com/BUGISU/JBListen">JB Listen</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
