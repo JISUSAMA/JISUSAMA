@@ -1,5 +1,3 @@
-
-<!-- 'C:\MCmediaProject\github\BUGISU\README.md' -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
 <p align="center">
@@ -60,6 +58,12 @@
 ---
 
 ## ✍️ Latest Blog Posts
+- Jun 25, 2025 · [Unity 참조 검색 툴 AssetUsageDetector 사용법 (씬, 머티리얼, 프리팹 추적)](https://j2su0218.tistory.com/1696)
+- Jun 19, 2025 · [GitHub Actions로 라벨 자동 등록하기 및 라벨들 적용](https://j2su0218.tistory.com/1695)
+- May 30, 2025 · [[UNTIY]Unity ScrollView 정복하기 &ndash; 콘텐츠가 자동으로 늘어나는 구조 만들기](https://j2su0218.tistory.com/1694)
+- May 29, 2025 · [[UNITY::북마크]하이어라키상(hierarchy)의 선택한 오브젝트를 제외한 오브젝트 모두 끄기](https://j2su0218.tistory.com/1693)
+- May 28, 2025 · [[UNITY::북마]하이어라키상(hierarchy)의 오브젝트들의 이름을 한번에 변경](https://j2su0218.tistory.com/1692)
+
 
 ---
 
