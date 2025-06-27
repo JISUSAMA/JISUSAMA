@@ -1,6 +1,5 @@
-// C:\MCmediaProject\github\BUGISU\readmeUpdate.js
 // ------------------------------------------------------------
-// README.md 자동 갱신 스크립트 (CommonJS 방식)
+// README.md 자동 갱신 스크립트 (CommonJS)
 // ------------------------------------------------------------
 const { writeFileSync } = require("node:fs");
 const Parser = require("rss-parser");
@@ -70,8 +69,7 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 
 ---
 
-## ✍️ Latest Blog Posts
-`;
+## ✍️ Latest Blog Posts`;
 
 // ───────────────────── RSS → 최신 글 리스트 생성 ─────────────────────
 async function buildBlogSection() {
@@ -82,19 +80,31 @@ async function buildBlogSection() {
     },
   });
 
-  const feed = await parser.parseURL(BLOG_RSS_URL);
+  try {
+    const feed = await parser.parseURL(BLOG_RSS_URL);
 
-  return feed.items
-    .slice(0, BLOG_POST_LIMIT)
-    .map(({ title, link, pubDate }) => {
-      const date = new Date(pubDate).toLocaleDateString("en-US", {
-        year: "numeric",
-        month: "short",
-        day: "2-digit",
-      });
-      return `- ${date} · [${title}](${link})`;
-    })
-    .join("\n");
+    if (!feed || !Array.isArray(feed.items) || feed.items.length === 0) {
+      return "- (최근 글이 없습니다)";
+    }
+
+    return feed.items
+      .slice(0, BLOG_POST_LIMIT)
+      .map(({ title, link, pubDate }) => {
+        const date = new Date(pubDate || Date.now()).toLocaleDateString(
+          "en-US",
+          {
+            year: "numeric",
+            month: "short",
+            day: "2-digit",
+          }
+        );
+        return `- ${date} · [${title}](${link})`;
+      })
+      .join("\n");
+  } catch (err) {
+    console.error("RSS 파싱 실패:", err);
+    return "- (최근 글을 불러오지 못했습니다)";
+  }
 }
 
 // ───────────────────── GitHub Stats HTML ─────────────────────
