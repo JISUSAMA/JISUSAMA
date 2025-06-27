@@ -38,22 +38,23 @@
 
 ---
 
-## 🚀 Portfolio Projects
-
-### 💻 Full Stack Projects
+<h3>💻 Full Stack Projects</h3>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
-      <th width="25%" align="center">Project</th>
-      <th width="50%" align="left">Links</th>
-      <th width="25%" align="center">Stack</th>
+      <th width="20%" align="center">Project</th>
+      <th width="60%" align="left">Links</th>
+      <th width="20%" align="center">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">🧭 SnapTide (CSR)</td>
-      <td><a href="https://github.com/BUGISU/SnapTide">Frontend</a> ｜ <a href="https://github.com/BUGISU/SnapTideAPI">Backend</a></td>
+      <td>
+        <a href="https://github.com/BUGISU/SnapTide">Frontend</a> ｜ 
+        <a href="https://github.com/BUGISU/SnapTideAPI">Backend</a>
+      </td>
       <td align="center">React, Spring Boot</td>
     </tr>
     <tr>
@@ -71,19 +72,22 @@
 
 ---
 
-### 🎮 Unity Series
+<h3>🎮 Unity Series</h3>
 
 <table width="100%" border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
-      <th width="25%" align="center">Category</th>
-      <th width="75%" align="left">Projects</th>
+      <th width="30%" align="center">Category</th>
+      <th width="70%" align="left">Projects</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">🎮 보자마자 PLAY</td>
-      <td><a href="https://github.com/BUGISU/BojamajaPlay2_mobile">모바일</a> ｜ <a href="https://github.com/BUGISU/BojamajaPlay2_realmotion">리얼모션</a></td>
+      <td>
+        <a href="https://github.com/BUGISU/BojamajaPlay2_mobile">모바일</a> ｜ 
+        <a href="https://github.com/BUGISU/BojamajaPlay2_realmotion">리얼모션</a>
+      </td>
     </tr>
     <tr>
       <td align="center">🏃 보자마자 피트니스</td>
