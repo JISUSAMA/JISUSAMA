@@ -2,8 +2,8 @@ name: Readme Update
 
 on:
   schedule:
-    - cron: "0 * * * *"  # 매시 정각
-  workflow_dispatch:      # 👉 수동 실행 허용
+    - cron: "0 * * * *" # 매시 정각
+  workflow_dispatch: # 👉 수동 실행 허용
 
 permissions:
   contents: write
@@ -13,17 +13,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - uses: actions/setup-node@v3
         with:
           node-version: 16
+
       - name: Install dependencies
         run: npm ci
+
       - name: Update README
         run: npm start
+
       - name: Debug Git Status
         run: |
           git status
           git config --list
+
       - name: Commit README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -36,3 +41,4 @@ jobs:
             git push origin main
           else
             echo "No changes to commit."
+          fi
