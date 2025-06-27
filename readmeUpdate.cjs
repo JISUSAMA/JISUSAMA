@@ -45,29 +45,76 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
 ---
+## 💻 Full Stack Projects
 
-## 🚀 Portfolio Projects
+### 🧭 SnapTide (CSR)
 
-### 💻 Full Stack Projects
+> 여행지 이미지 기반 SNS 플랫폼. CSR SPA 구조로 빠른 라우팅 경험 제공
 
-| **Project** | **Links** | **Stack** |
-|:--:|:--|:--:|
-| 🧭 SnapTide (CSR) | [Frontend](https://github.com/BUGISU/SnapTide) ｜ [Backend](https://github.com/BUGISU/SnapTideAPI) | React, Spring Boot |
-| 🎬 FilmCritiq (SSR) | [Spring Boot](https://github.com/BUGISU/FilmCritiq) | Spring Boot |
-| 🍹 Team_ShakePot (CSR) | [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot) | React, Spring Boot |
+- **Links:** [Frontend](https://github.com/BUGISU/SnapTide) ｜ [Backend](https://github.com/BUGISU/SnapTideAPI)
+- **Stack:** React, Spring Boot
+
+### 🎬 FilmCritiq (SSR)
+
+> 영화 리뷰 아카이브 플랫폼. SSR 방식으로 SEO 최적화
+
+- **Links:** [Spring Boot](https://github.com/BUGISU/FilmCritiq)
+- **Stack:** Spring Boot
+
+### 🍹 Team_ShakePot (CSR)
+
+> 팀 기반 칵테일 레시피 공유 웹앱. 간편한 레시피 편집과 태그 필터링 지원
+
+- **Links:** [React + Spring Boot](https://github.com/BUGISU/Team_ShakePot)
+- **Stack:** React, Spring Boot
 
 ---
 
-### 🎮 Unity Series
+## 🎮 Unity Series
 
-| **Category** | **Projects** |
-|:--:|:--|
-| 🎮 보자마자 PLAY | [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion) |
-| 🏃 보자마자 피트니스 | [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour)<br>[시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore) |
-| 🧠 보자마자 케어 | [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain) |
-| 🛠 외주 프로젝트 | [복천박물관](https://github.com/BUGISU/Bokcheon-dong) ｜ [JB Listen](https://github.com/BUGISU/JBListen) |
+### 🎮 보자마자 PLAY
+
+> 직관적 상호작용을 중시하는 Unity 기반 인터랙티브 시리즈
+
+- **Projects:** [모바일](https://github.com/BUGISU/BojamajaPlay2_mobile) ｜ [리얼모션](https://github.com/BUGISU/BojamajaPlay2_realmotion)
+- **Platform:** Unity
+
+### 🏃 보자마자 피트니스
+
+> 운동 습관 형성을 위한 게임형 콘텐츠
+
+- **Projects:**  
+  [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜  
+  [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour) ｜  
+  [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜  
+  [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore)
+- **Platform:** Unity
+
+### 🧠 보자마자 케어
+
+> 인지 학습 및 건강 증진을 위한 시니어 케어 콘텐츠
+
+- **Projects:** [케어](https://github.com/BUGISU/BMF-BojamajaCare) ｜ [브레인](https://github.com/BUGISU/BMF-BojamajaBrain)
+- **Platform:** Unity
 
 ---
+
+## 🛠 외주 프로젝트
+
+### 🏛 복천박물관
+
+> 지역 역사 유물을 3D 전시 콘텐츠로 구현한 전시관 전용 콘텐츠
+
+- **Project:** [복천박물관](https://github.com/BUGISU/Bokcheon-dong)
+- **Platform:** Unity
+
+### 🎧 JB Listen
+
+> 청각 보조 장치를 위한 체험형 음향 인터랙션 시뮬레이터
+
+- **Project:** [JB Listen](https://github.com/BUGISU/JBListen)
+- **Platform:** Unity
+
 
 ## ✍️ Latest Blog Posts`;
 
