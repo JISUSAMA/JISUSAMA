@@ -109,11 +109,10 @@ const fixedHeader = `![header](https://capsule-render.vercel.app/api?type=waving
 - **Platform:** Unity
 
 ### 🎧 JB Listen
-
-> 청각 보조 장치를 위한 체험형 음향 인터랙션 시뮬레이터
-
-- **Project:** [JB Listen](https://github.com/BUGISU/JBListen)
+> 전북 지역의 명소, 문화, 콘텐츠를 소개하는 지역 홍보 모바일 애플리케이션  
+- **Project:** [JB Listen](https://github.com/BUGISU/JBListen)  
 - **Platform:** Unity
+
 
 
 ## ✍️ Latest Blog Posts`;
