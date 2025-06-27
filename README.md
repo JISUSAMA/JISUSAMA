@@ -1,4 +1,4 @@
-<!-- 'C:\MCmediaProject\github\BUGISU\README.md' -->
+<!-- C:\MCmediaProject\github\BUGISU\README.md -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=One%20Code%20at%20a%20Time%20%7C%20One%20Step%20Forward&fontSize=35)
 
@@ -25,36 +25,35 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🛠 Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-ED2761?style=for-the-badge&logo=intellijidea)
 ![Rider](https://img.shields.io/badge/Rider-632CA6?style=for-the-badge&logo=rider)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
 ---
 
-<h3>💻 Full Stack Projects</h3>
+## 🚀 Portfolio Projects
 
-<table width="100%" border="1" cellspacing="0" cellpadding="8">
+### 💻 Full Stack Projects
+
+<table width="100%" border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
-      <th align="center">Project</th>
-      <th align="left">Links</th>
-      <th align="center">Stack</th>
+      <th width="25%" align="center">Project</th>
+      <th width="50%" align="left">Links</th>
+      <th width="25%" align="center">Stack</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">🧭 SnapTide (CSR)</td>
-      <td>
-        <a href="https://github.com/BUGISU/SnapTide">Frontend</a> ｜ 
-        <a href="https://github.com/BUGISU/SnapTideAPI">Backend</a>
-      </td>
+      <td><a href="https://github.com/BUGISU/SnapTide">Frontend</a> ｜ <a href="https://github.com/BUGISU/SnapTideAPI">Backend</a></td>
       <td align="center">React, Spring Boot</td>
     </tr>
     <tr>
@@ -72,22 +71,19 @@
 
 ---
 
-<h3>🎮 Unity Series</h3>
+### 🎮 Unity Series
 
-<table width="100%" border="1" cellspacing="0" cellpadding="8">
+<table width="100%" border="1" cellspacing="0" cellpadding="6">
   <thead>
     <tr>
-      <th align="center">Category</th>
-      <th align="left">Projects</th>
+      <th width="25%" align="center">Category</th>
+      <th width="75%" align="left">Projects</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">🎮 보자마자 PLAY</td>
-      <td>
-        <a href="https://github.com/BUGISU/BojamajaPlay2_mobile">모바일</a> ｜ 
-        <a href="https://github.com/BUGISU/BojamajaPlay2_realmotion">리얼모션</a>
-      </td>
+      <td><a href="https://github.com/BUGISU/BojamajaPlay2_mobile">모바일</a> ｜ <a href="https://github.com/BUGISU/BojamajaPlay2_realmotion">리얼모션</a></td>
     </tr>
     <tr>
       <td align="center">🏃 보자마자 피트니스</td>
@@ -118,6 +114,8 @@
 ---
 
 ## ✍️ Latest Blog Posts
+
+<!-- 최신 글 목록은 자동 삽입됩니다 (RSS) -->
 
 ---
 
