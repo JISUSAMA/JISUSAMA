@@ -17,22 +17,25 @@
 ## 🧠 Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring&nbsp;Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🛠 Tools
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-![VS&nbsp;Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-ED2761?style=for-the-badge&logo=intellijidea)
 ![Rider](https://img.shields.io/badge/Rider-632CA6?style=for-the-badge&logo=rider)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm)
 
 ---
+
 ## 💻 Full Stack Projects
 
 ### 🧭 SnapTide (CSR)
@@ -72,10 +75,7 @@
 > 운동 습관 형성을 위한 게임형 콘텐츠
 
 - **Projects:**  
-  [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜  
-  [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour) ｜  
-  [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜  
-  [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore)
+  [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜ [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour) ｜ [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜ [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore)
 - **Platform:** Unity
 
 ### 🧠 보자마자 케어
@@ -97,19 +97,19 @@
 - **Platform:** Unity
 
 ### 🎧 JB Listen
-> 전북 지역의 명소, 문화, 콘텐츠를 소개하는 지역 홍보 모바일 애플리케이션  
-- **Project:** [JB Listen](https://github.com/BUGISU/JBListen)  
+
+> 전북 지역의 명소, 문화, 콘텐츠를 소개하는 지역 홍보 모바일 애플리케이션
+
+- **Project:** [JB Listen](https://github.com/BUGISU/JBListen)
 - **Platform:** Unity
 
-
-
 ## ✍️ Latest Blog Posts
+
 - Jun 28, 2025 · [[C#] 문자열을 Boolean으로 변환하는 두 가지 방법 정리](https://j2su0218.tistory.com/1697)
 - Jun 25, 2025 · [Unity 참조 검색 툴 AssetUsageDetector 사용법 (씬, 머티리얼, 프리팹 추적)](https://j2su0218.tistory.com/1696)
 - Jun 19, 2025 · [GitHub Actions로 라벨 자동 등록하기 및 라벨들 적용](https://j2su0218.tistory.com/1695)
 - May 30, 2025 · [[UNTIY]Unity ScrollView 정복하기 &ndash; 콘텐츠가 자동으로 늘어나는 구조 만들기](https://j2su0218.tistory.com/1694)
 - May 29, 2025 · [[UNITY::북마크]하이어라키상(hierarchy)의 선택한 오브젝트를 제외한 오브젝트 모두 끄기](https://j2su0218.tistory.com/1693)
-
 
 ---
 
