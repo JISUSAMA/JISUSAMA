@@ -72,10 +72,7 @@
 > 운동 습관 형성을 위한 게임형 콘텐츠
 
 - **Projects:**  
-  [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon) ｜  
-  [사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour) ｜  
-  [시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan) ｜  
-  [어메이징코어](https://github.com/BUGISU/BMF-AmazingCore)
+  [런 투더 문](https://github.com/BUGISU/BMF-Run.to.the.Moon)｜[사이클링 투어](https://github.com/BUGISU/BMF-CyclingTour)｜[시티투어 부산](https://github.com/BUGISU/BMF-CityTourBusan)｜[어메이징코어](https://github.com/BUGISU/BMF-AmazingCore)
 - **Platform:** Unity
 
 ### 🧠 보자마자 케어
